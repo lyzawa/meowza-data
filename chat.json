@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "entries": {
     "a906ebd2-d576-43df-b01f-b555ccade48d": {
       "name": "lyzawa",
@@ -30,6 +30,12 @@
       "prefix": "§r§k§#DB6A71!§r§#DB6A71[§#EC6262N§#DB6A71a§#CA7280t§#BA7B8Eu§#A9839Dr§#988BACal§#7A6F8A]§k§#7A6F8A!§r",
       "nameGradient": "§#EC6262Not§#DB6A71A§#CA7280n§#BA7B8Ea§#A9839Dn§#988BAC5451",
       "chatColor": "#CA7280"
+    },
+    "b588d01b-ce97-430d-ba97-ee4671c2a05a": {
+      "name": "1nfinity_",
+      "prefix": "§r§k§#1E0F36!§r§#2E1850[§#432371S§#573272k§#6C4273i§#805174l§#946175l §#A97077I§#BD8078s§#D18F79s§#E69F7Au§#FAAE7Be§#9C5C7A]§k§#70407A!§r",
+      "nameGradient": "§#4323711§#5A3472n§#714674f§#885775i§#9F6976n§#B57A77i§#CC8B79t§#E39D7Ay§#FAAE7B_",
+      "chatColor": "#F2C4A0"
     }
   }
 }
