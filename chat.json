@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "entries": {
     "a906ebd2-d576-43df-b01f-b555ccade48d": {
       "name": "lyzawa",
@@ -36,6 +36,12 @@
       "prefix": "§r§k§#1E0F36!§r§#2E1850[§#432371S§#573272k§#6C4273i§#805174l§#946175l §#A97077I§#BD8078s§#D18F79s§#E69F7Au§#FAAE7Be§#9C5C7A]§k§#70407A!§r",
       "nameGradient": "§#4323711§#5A3472n§#714674f§#885775i§#9F6976n§#B57A77i§#CC8B79t§#E39D7Ay§#FAAE7B_",
       "chatColor": "#F2C4A0"
+    },
+    "472dff22-1229-4566-80e2-ea8420d4fd40": {
+      "name": "vitalityblud67",
+      "prefix": "§r§k§#1B3A0C!§r§#2A5214[§#8DC63FP§#7AB437i§#66A230g§#538F28g§#3F7D20y§#5F9F35]§k§#3D7524!§r",
+      "nameGradient": "§#8DC63Fv§#87C03Di§#81BB3At§#7BB538a§#75B035l§#6FAA33i§#69A431t§#639F2Ey§#5D992Cb§#57932Al§#518E27u§#4B8825d§#4583226§#3F7D207",
+      "chatColor": "#B9DE85"
     }
   }
 }
