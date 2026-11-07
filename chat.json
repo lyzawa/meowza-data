@@ -1,0 +1,35 @@
+{
+  "version": 1,
+  "entries": {
+    "a906ebd2-d576-43df-b01f-b555ccade48d": {
+      "name": "lyzawa",
+      "prefix": "§r§k§#0B3D32!§r§#14604F[§#2FA58AM§#56B7A0e§#7EC9B7o§#A5DBCDw§#CDEDE4z§#F4FFFAa§#7FDCC0§l MCCXII§r§#2E8F78]§k§#1F7461!§r",
+      "nameGradient": "§#2FA58Al§#56B7A0y§#7EC9B7z§#A5DBCDa§#CDEDE4w§#F4FFFAa",
+      "chatColor": "#7FDCC0"
+    },
+    "4fb4f9aa-6403-42d5-a09a-dc14b1c4c3cc": {
+      "name": "Shireee",
+      "prefix": "§r§k§#B93ED0!§r§#B93ED0[§#B140CFM§#A442CCe§#9745C9o§#8A47C6w§#7D4AC4e§#704CC1r]§k§#704CC1!§r",
+      "nameGradient": "§#CB3BD4S§#B93ED0h§#A742CCi§#9445C9r§#8249C5e§#704CC1ee",
+      "chatColor": "#A742CC"
+    },
+    "e848ebf6-4378-476a-abf3-becc2e453ac3": {
+      "name": "SoggyKwte",
+      "prefix": "§r§k§#3B2B24!§r§#3B2B24[§#654C3ES§#80624Fo§#D8BFAEg§#E8D7C2g§#F5EDE5y§#3B2B24]§k§#3B2B24!§r",
+      "nameGradient": "§#49352DS§#654C3Eo§#80624Fg§#9D816Fg§#BBA08Ey§#D8BFAEK§#E8D7C2w§#F5EDE5te",
+      "chatColor": "#998678"
+    },
+    "1d438323-8aac-47af-98a9-ac65b2319441": {
+      "name": "Ryakuu",
+      "prefix": "§r§k§#FFD1EA!§r§#FFD1EA[§#FFD1EAK§#FFC3E3i§#FFB5DCt§#FFA6D6t§#FF98CFen§#FF98CF]§k§#FF98CF!§r",
+      "nameGradient": "§#FFEEF7R§#FFD1EAy§#FFB5DCa§#FF98CFkuu",
+      "chatColor": "#FF98CF"
+    },
+    "a9a97c02-67e6-49cb-9d6b-c534bb565a66": {
+      "name": "NotAnan5451",
+      "prefix": "§r§k§#DB6A71!§r§#DB6A71[§#EC6262N§#DB6A71a§#CA7280t§#BA7B8Eu§#A9839Dr§#988BACal§#7A6F8A]§k§#7A6F8A!§r",
+      "nameGradient": "§#EC6262Not§#DB6A71A§#CA7280n§#BA7B8Ea§#A9839Dn§#988BAC5451",
+      "chatColor": "#CA7280"
+    }
+  }
+}
