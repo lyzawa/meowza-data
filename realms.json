@@ -4,17 +4,17 @@
     {
       "id": "New York",
       "label": "NA",
-      "realms": ["Ashburn", "Cedar", "Dakota"]
+      "realms": ["Ashburn", "Cedar", "Dakota", "Hub-1", "Missions"]
     },
     {
       "id": "Germany",
       "label": "EU",
-      "realms": ["Astra", "Creska", "Draskov", "Estenmoor", "Galla"]
+      "realms": ["Astra", "Creska", "Draskov", "Estenmoor", "Galla", "Hub-1", "Hub-2", "Missions"]
     },
     {
       "id": "Singapore",
       "label": "Asia",
-      "realms": ["Asura"]
+      "realms": ["Asura", "Hub-1", "Missions"]
     }
   ]
 }
