@@ -1,20 +1,23 @@
 {
-  "version": 1,
+  "version": 2,
   "regions": [
     {
       "id": "New York",
       "label": "NA",
-      "realms": ["Ashburn", "Cedar", "Dakota", "Hub-1", "Missions"]
+      "realms": ["Ashburn", "Cedar", "Dakota"],
+      "extras": ["Hub-1", "Missions"]
     },
     {
       "id": "Germany",
       "label": "EU",
-      "realms": ["Astra", "Creska", "Draskov", "Estenmoor", "Galla", "Hub-1", "Hub-2", "Missions"]
+      "realms": ["Astra", "Creska", "Draskov", "Estenmoor", "Galla"],
+      "extras": ["Hub-1", "Hub-2", "Missions"]
     },
     {
       "id": "Singapore",
       "label": "Asia",
-      "realms": ["Asura", "Hub-1", "Missions"]
+      "realms": ["Asura"],
+      "extras": ["Hub-1", "Missions"]
     }
   ]
 }
