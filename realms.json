@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "regions": [
+    {
+      "id": "New York",
+      "label": "NA",
+      "realms": ["Ashburn", "Cedar", "Dakota"]
+    },
+    {
+      "id": "Germany",
+      "label": "EU",
+      "realms": ["Astra", "Creska", "Draskov", "Estenmoor", "Galla"]
+    },
+    {
+      "id": "Singapore",
+      "label": "Asia",
+      "realms": ["Asura"]
+    }
+  ]
+}
