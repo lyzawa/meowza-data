@@ -1,5 +1,13 @@
 {
   "version": 1,
   "enabled": true,
-  "uuids": ["a9a97c02-67e6-49cb-9d6b-c534bb565a66"]
+  "uuids": [
+    "1d438323-8aac-47af-98a9-ac65b2319441",
+    "472dff22-1229-4566-80e2-ea8420d4fd40",
+    "4fb4f9aa-6403-42d5-a09a-dc14b1c4c3cc",
+    "a906ebd2-d576-43df-b01f-b555ccade48d",
+    "a9a97c02-67e6-49cb-9d6b-c534bb565a66",
+    "b588d01b-ce97-430d-ba97-ee4671c2a05a",
+    "e848ebf6-4378-476a-abf3-becc2e453ac3"
+  ]
 }
