@@ -1,13 +1,12 @@
 {
   "schemaVersion": 1,
-  "dataVersion": 1,
+  "dataVersion": 2,
   "entries": [
     {
       "id": "BLUNDERBOW",
       "rarity": "IRRADIATED",
       "displayName": "Blunderbow",
       "texturePath": "telos:material/weapon/bow/ut-blunder",
-      "maxPity": 120,
       "hasShiny": true
     },
     {
@@ -15,7 +14,6 @@
       "rarity": "IRRADIATED",
       "displayName": "Lost Treasure Scripture",
       "texturePath": "telos:material/ability/scripture/ut-treasure",
-      "maxPity": 120,
       "hasShiny": false
     },
     {
@@ -23,7 +21,6 @@
       "rarity": "COMPANION",
       "displayName": "Slime Archer",
       "texturePath": "telos:material/pet/skull_cavern",
-      "maxPity": 120,
       "hasShiny": false
     },
     {
@@ -31,7 +28,6 @@
       "rarity": "COMPANION",
       "displayName": "Golden Stallion",
       "texturePath": "telos:material/mount/skull_cavern",
-      "maxPity": 120,
       "hasShiny": false
     },
     {
@@ -39,7 +35,6 @@
       "rarity": "IRRADIATED",
       "displayName": "Asteroid Staff",
       "texturePath": "telos:material/weapon/staff/ut-asteroid",
-      "maxPity": 120,
       "hasShiny": true
     },
     {
@@ -47,7 +42,6 @@
       "rarity": "IRRADIATED",
       "displayName": "Ayahuasca Flask",
       "texturePath": "telos:material/ability/poison/ut-flask",
-      "maxPity": 120,
       "hasShiny": true
     },
     {
@@ -55,7 +49,6 @@
       "rarity": "IRRADIATED",
       "displayName": "Wartorn Sandals",
       "texturePath": "telos:material/armour/light/boots/ut-wartorn",
-      "maxPity": 120,
       "hasShiny": true
     },
     {
@@ -63,7 +56,6 @@
       "rarity": "COMPANION",
       "displayName": "Thornwood Druid",
       "texturePath": "telos:material/pet/thornwood_wargrove",
-      "maxPity": 120,
       "hasShiny": false
     },
     {
@@ -71,7 +63,6 @@
       "rarity": "COMPANION",
       "displayName": "Timberbeast",
       "texturePath": "telos:material/mount/thornwood_wargrove",
-      "maxPity": 120,
       "hasShiny": false
     },
     {
@@ -79,7 +70,6 @@
       "rarity": "IRRADIATED",
       "displayName": "Titanium Cleaver",
       "texturePath": "telos:material/weapon/sword/ut-cleaver",
-      "maxPity": 120,
       "hasShiny": false
     },
     {
@@ -87,7 +77,6 @@
       "rarity": "IRRADIATED",
       "displayName": "Drayruk's Battle Greaves",
       "texturePath": "telos:material/armour/heavy/leggings/ut-drayruk",
-      "maxPity": 120,
       "hasShiny": false
     },
     {
@@ -95,7 +84,6 @@
       "rarity": "IRRADIATED",
       "displayName": "Arrowstorm Trap",
       "texturePath": "telos:material/ability/trap/ut-arrowstorm",
-      "maxPity": 120,
       "hasShiny": true
     },
     {
@@ -103,7 +91,6 @@
       "rarity": "COMPANION",
       "displayName": "Shamanoid",
       "texturePath": "telos:material/pet/goblin_lair",
-      "maxPity": 120,
       "hasShiny": false
     },
     {
@@ -111,7 +98,6 @@
       "rarity": "COMPANION",
       "displayName": "Gobblehop",
       "texturePath": "telos:material/mount/goblin_lair",
-      "maxPity": 120,
       "hasShiny": false
     },
     {
@@ -119,7 +105,6 @@
       "rarity": "IRRADIATED",
       "displayName": "Sceptre of Thorns",
       "texturePath": "telos:material/weapon/sceptre/ut-thorns",
-      "maxPity": 120,
       "hasShiny": true
     },
     {
@@ -127,7 +112,6 @@
       "rarity": "IRRADIATED",
       "displayName": "Sandstone Emblem",
       "texturePath": "telos:material/ability/emblem/ut-sandstone",
-      "maxPity": 120,
       "hasShiny": true
     },
     {
@@ -135,7 +119,6 @@
       "rarity": "COMPANION",
       "displayName": "Lost Cleric",
       "texturePath": "telos:material/pet/desert_temple",
-      "maxPity": 120,
       "hasShiny": false
     },
     {
@@ -143,7 +126,6 @@
       "rarity": "COMPANION",
       "displayName": "Grumbleglob",
       "texturePath": "telos:material/mount/desert_temple",
-      "maxPity": 120,
       "hasShiny": false
     },
     {
@@ -151,7 +133,6 @@
       "rarity": "IRRADIATED",
       "displayName": "Khufu's Skull",
       "texturePath": "telos:material/ability/skull/ut-khufu",
-      "maxPity": 120,
       "hasShiny": false
     },
     {
@@ -159,7 +140,6 @@
       "rarity": "IRRADIATED",
       "displayName": "Veil of Shadows",
       "texturePath": "telos:material/ability/cloak/ut-shadows",
-      "maxPity": 120,
       "hasShiny": false
     },
     {
@@ -167,7 +147,6 @@
       "rarity": "IRRADIATED",
       "displayName": "Hood of Stealth",
       "texturePath": "telos:material/armour/magical/helmet/ut-stealth",
-      "maxPity": 120,
       "hasShiny": true
     },
     {
@@ -175,7 +154,6 @@
       "rarity": "COMPANION",
       "displayName": "Khufy",
       "texturePath": "telos:material/pet/tomb_of_shadows",
-      "maxPity": 120,
       "hasShiny": false
     },
     {
@@ -183,7 +161,6 @@
       "rarity": "COMPANION",
       "displayName": "Shadow Scorpid",
       "texturePath": "telos:material/mount/tomb_of_shadows",
-      "maxPity": 120,
       "hasShiny": false
     },
     {
@@ -191,7 +168,6 @@
       "rarity": "IRRADIATED",
       "displayName": "Kendo Stick",
       "texturePath": "telos:material/weapon/katana/ut-kendo",
-      "maxPity": 120,
       "hasShiny": false
     },
     {
@@ -199,7 +175,6 @@
       "rarity": "IRRADIATED",
       "displayName": "Choji's Tunic",
       "texturePath": "telos:material/armour/light/chestplate/ut-tunic",
-      "maxPity": 120,
       "hasShiny": true
     },
     {
@@ -207,7 +182,6 @@
       "rarity": "COMPANION",
       "displayName": "YinYang",
       "texturePath": "telos:material/pet/sakura_shrine",
-      "maxPity": 120,
       "hasShiny": false
     },
     {
@@ -215,7 +189,6 @@
       "rarity": "COMPANION",
       "displayName": "Zenpanda",
       "texturePath": "telos:material/mount/sakura_shrine",
-      "maxPity": 120,
       "hasShiny": false
     },
     {
@@ -223,7 +196,6 @@
       "rarity": "IRRADIATED",
       "displayName": "Flora Boots",
       "texturePath": "telos:material/armour/magical/boots/ut-flora",
-      "maxPity": 120,
       "hasShiny": false
     },
     {
@@ -231,7 +203,6 @@
       "rarity": "IRRADIATED",
       "displayName": "Cross Grass Dagger",
       "texturePath": "telos:material/weapon/dagger/ut-grass",
-      "maxPity": 120,
       "hasShiny": false
     },
     {
@@ -239,7 +210,6 @@
       "rarity": "IRRADIATED",
       "displayName": "Overgrown Orb",
       "texturePath": "telos:material/ability/orb/ut-overgrown",
-      "maxPity": 120,
       "hasShiny": false
     },
     {
@@ -247,7 +217,6 @@
       "rarity": "COMPANION",
       "displayName": "Undead Ent",
       "texturePath": "telos:material/pet/secluded_woodland",
-      "maxPity": 120,
       "hasShiny": false
     },
     {
@@ -255,7 +224,6 @@
       "rarity": "COMPANION",
       "displayName": "Thornscale",
       "texturePath": "telos:material/mount/secluded_woodland",
-      "maxPity": 120,
       "hasShiny": false
     },
     {
@@ -263,7 +231,6 @@
       "rarity": "GILDED",
       "displayName": "Demonic Blade",
       "texturePath": "telos:material/weapon/sword/ut-demonic",
-      "maxPity": 120,
       "hasShiny": true
     },
     {
@@ -271,7 +238,6 @@
       "rarity": "GILDED",
       "displayName": "Demonic Dagger",
       "texturePath": "telos:material/weapon/dagger/ut-demonic",
-      "maxPity": 120,
       "hasShiny": false
     },
     {
@@ -279,7 +245,6 @@
       "rarity": "GILDED",
       "displayName": "Magma Infused Skull",
       "texturePath": "telos:material/ability/skull/ut-magma",
-      "maxPity": 120,
       "hasShiny": false
     },
     {
@@ -287,7 +252,6 @@
       "rarity": "COMPANION",
       "displayName": "Blazey",
       "texturePath": "telos:material/pet/abyss_of_demons",
-      "maxPity": 120,
       "hasShiny": false
     },
     {
@@ -295,7 +259,6 @@
       "rarity": "COMPANION",
       "displayName": "Magma Runner",
       "texturePath": "telos:material/mount/abyss_of_demons",
-      "maxPity": 120,
       "hasShiny": false
     },
     {
@@ -303,7 +266,6 @@
       "rarity": "GILDED",
       "displayName": "Doom Katana",
       "texturePath": "telos:material/weapon/katana/ut-doom",
-      "maxPity": 120,
       "hasShiny": true
     },
     {
@@ -311,7 +273,6 @@
       "rarity": "GILDED",
       "displayName": "Doom Bow",
       "texturePath": "telos:material/weapon/bow/ut-doom",
-      "maxPity": 120,
       "hasShiny": true
     },
     {
@@ -319,7 +280,6 @@
       "rarity": "GILDED",
       "displayName": "Hat of Lost Souls",
       "texturePath": "telos:material/armour/light/helmet/ut-soul",
-      "maxPity": 120,
       "hasShiny": true
     },
     {
@@ -327,7 +287,6 @@
       "rarity": "COMPANION",
       "displayName": "Dark Knight",
       "texturePath": "telos:material/pet/undead_lair",
-      "maxPity": 120,
       "hasShiny": false
     },
     {
@@ -335,7 +294,6 @@
       "rarity": "COMPANION",
       "displayName": "Necrofox",
       "texturePath": "telos:material/mount/undead_lair",
-      "maxPity": 120,
       "hasShiny": false
     },
     {
@@ -343,7 +301,6 @@
       "rarity": "GILDED",
       "displayName": "Frozen Star",
       "texturePath": "telos:material/ability/star/ut-frozen",
-      "maxPity": 120,
       "hasShiny": true
     },
     {
@@ -351,7 +308,6 @@
       "rarity": "GILDED",
       "displayName": "Frostspark Scripture",
       "texturePath": "telos:material/ability/scripture/ut-frostspark",
-      "maxPity": 120,
       "hasShiny": true
     },
     {
@@ -359,7 +315,6 @@
       "rarity": "GILDED",
       "displayName": "Frozen Jewel",
       "texturePath": "telos:material/ability/jewel/ut-frozen",
-      "maxPity": 120,
       "hasShiny": false
     },
     {
@@ -367,7 +322,6 @@
       "rarity": "COMPANION",
       "displayName": "Ice Penguin",
       "texturePath": "telos:material/pet/ice_cave",
-      "maxPity": 120,
       "hasShiny": false
     },
     {
@@ -375,7 +329,6 @@
       "rarity": "COMPANION",
       "displayName": "Frostfang",
       "texturePath": "telos:material/mount/ice_cave",
-      "maxPity": 120,
       "hasShiny": false
     },
     {
@@ -383,7 +336,6 @@
       "rarity": "GILDED",
       "displayName": "Dwarven Kunai",
       "texturePath": "telos:material/ability/kunai/ut-dwarven",
-      "maxPity": 120,
       "hasShiny": false
     },
     {
@@ -391,7 +343,6 @@
       "rarity": "GILDED",
       "displayName": "Dwarven Emblem",
       "texturePath": "telos:material/ability/emblem/ut-dwarven",
-      "maxPity": 120,
       "hasShiny": true
     },
     {
@@ -399,7 +350,6 @@
       "rarity": "GILDED",
       "displayName": "Dwarven Cloak",
       "texturePath": "telos:material/ability/cloak/ut-dwarven",
-      "maxPity": 120,
       "hasShiny": false
     },
     {
@@ -407,7 +357,6 @@
       "rarity": "COMPANION",
       "displayName": "Mini Dwarf",
       "texturePath": "telos:material/pet/dwarven_frostkeep",
-      "maxPity": 120,
       "hasShiny": false
     },
     {
@@ -415,7 +364,6 @@
       "rarity": "COMPANION",
       "displayName": "Glacial Runner",
       "texturePath": "telos:material/mount/dwarven_frostkeep",
-      "maxPity": 120,
       "hasShiny": false
     },
     {
@@ -423,7 +371,6 @@
       "rarity": "GILDED",
       "displayName": "Lightning Bow",
       "texturePath": "telos:material/weapon/bow/ut-lightning",
-      "maxPity": 120,
       "hasShiny": true
     },
     {
@@ -431,7 +378,6 @@
       "rarity": "GILDED",
       "displayName": "Lightning Chaps",
       "texturePath": "telos:material/armour/light/leggings/ut-lightning",
-      "maxPity": 120,
       "hasShiny": true
     },
     {
@@ -439,7 +385,6 @@
       "rarity": "GILDED",
       "displayName": "Lightning Sabatons",
       "texturePath": "telos:material/armour/heavy/boots/ut-lightning",
-      "maxPity": 120,
       "hasShiny": true
     },
     {
@@ -447,7 +392,6 @@
       "rarity": "COMPANION",
       "displayName": "Golden Martial",
       "texturePath": "telos:material/pet/treasure_cave",
-      "maxPity": 120,
       "hasShiny": false
     },
     {
@@ -455,7 +399,6 @@
       "rarity": "COMPANION",
       "displayName": "Midas Construct",
       "texturePath": "telos:material/mount/treasure_cave",
-      "maxPity": 120,
       "hasShiny": false
     },
     {
@@ -463,7 +406,6 @@
       "rarity": "GILDED",
       "displayName": "Orb of Torment",
       "texturePath": "telos:material/ability/orb/ut-torment",
-      "maxPity": 120,
       "hasShiny": false
     },
     {
@@ -471,7 +413,6 @@
       "rarity": "GILDED",
       "displayName": "Bomb of Torment",
       "texturePath": "telos:material/ability/bomb/ut-torment",
-      "maxPity": 120,
       "hasShiny": false
     },
     {
@@ -479,7 +420,6 @@
       "rarity": "GILDED",
       "displayName": "Chestplate of Torment",
       "texturePath": "telos:material/armour/heavy/chestplate/ut-torment",
-      "maxPity": 120,
       "hasShiny": true
     },
     {
@@ -487,7 +427,6 @@
       "rarity": "COMPANION",
       "displayName": "Pryoc",
       "texturePath": "telos:material/pet/purgatory",
-      "maxPity": 120,
       "hasShiny": false
     },
     {
@@ -495,7 +434,6 @@
       "rarity": "COMPANION",
       "displayName": "Hydroscorch",
       "texturePath": "telos:material/mount/purgatory",
-      "maxPity": 120,
       "hasShiny": false
     },
     {
@@ -503,7 +441,6 @@
       "rarity": "GILDED",
       "displayName": "Shield of Glacial Reflection",
       "texturePath": "telos:material/ability/shield/ut-reflection",
-      "maxPity": 120,
       "hasShiny": true
     },
     {
@@ -511,7 +448,6 @@
       "rarity": "GILDED",
       "displayName": "Frost Leggings",
       "texturePath": "telos:material/armour/magical/leggings/ut-frost",
-      "maxPity": 120,
       "hasShiny": true
     },
     {
@@ -519,7 +455,6 @@
       "rarity": "GILDED",
       "displayName": "Glacial Bomb",
       "texturePath": "telos:material/ability/bomb/ut-glacial",
-      "maxPity": 120,
       "hasShiny": false
     },
     {
@@ -527,7 +462,6 @@
       "rarity": "COMPANION",
       "displayName": "Thaily",
       "texturePath": "telos:material/pet/frozen_ruins",
-      "maxPity": 120,
       "hasShiny": false
     },
     {
@@ -535,7 +469,6 @@
       "rarity": "COMPANION",
       "displayName": "Winterbeast",
       "texturePath": "telos:material/mount/frozen_ruins",
-      "maxPity": 120,
       "hasShiny": false
     },
     {
@@ -543,7 +476,6 @@
       "rarity": "GILDED",
       "displayName": "Emberheart Staff",
       "texturePath": "telos:material/weapon/staff/ut-emberheart",
-      "maxPity": 120,
       "hasShiny": false
     },
     {
@@ -551,7 +483,6 @@
       "rarity": "GILDED",
       "displayName": "Venomfang Serum",
       "texturePath": "telos:material/ability/poison/ut-venomfang",
-      "maxPity": 120,
       "hasShiny": true
     },
     {
@@ -559,7 +490,6 @@
       "rarity": "GILDED",
       "displayName": "Lizardskin Spellcoat",
       "texturePath": "telos:material/armour/magical/chestplate/ut-lizardskin",
-      "maxPity": 120,
       "hasShiny": true
     },
     {
@@ -567,7 +497,6 @@
       "rarity": "COMPANION",
       "displayName": "Blade",
       "texturePath": "telos:material/pet/kobolds_den",
-      "maxPity": 120,
       "hasShiny": false
     },
     {
@@ -575,7 +504,6 @@
       "rarity": "COMPANION",
       "displayName": "Fireclaw",
       "texturePath": "telos:material/mount/kobolds_den",
-      "maxPity": 120,
       "hasShiny": false
     },
     {
@@ -583,7 +511,6 @@
       "rarity": "GILDED",
       "displayName": "Corvus Sceptre",
       "texturePath": "telos:material/weapon/sceptre/ut-corvus",
-      "maxPity": 120,
       "hasShiny": false
     },
     {
@@ -591,7 +518,6 @@
       "rarity": "GILDED",
       "displayName": "Corvus Trap",
       "texturePath": "telos:material/ability/trap/ut-corvus",
-      "maxPity": 120,
       "hasShiny": true
     },
     {
@@ -599,7 +525,6 @@
       "rarity": "GILDED",
       "displayName": "Corvack's Mask",
       "texturePath": "telos:material/armour/heavy/helmet/ut-corvack",
-      "maxPity": 120,
       "hasShiny": true
     },
     {
@@ -607,7 +532,6 @@
       "rarity": "COMPANION",
       "displayName": "Dark Alchemist",
       "texturePath": "telos:material/pet/corvus_crypt",
-      "maxPity": 120,
       "hasShiny": false
     },
     {
@@ -615,7 +539,6 @@
       "rarity": "COMPANION",
       "displayName": "Shadowclaw",
       "texturePath": "telos:material/mount/corvus_crypt",
-      "maxPity": 120,
       "hasShiny": false
     },
     {
@@ -623,7 +546,6 @@
       "rarity": "ROYAL",
       "displayName": "Carrot on a Stick",
       "texturePath": "telos:material/weapon/katana/ut-carrot",
-      "maxPity": 120,
       "hasShiny": false
     },
     {
@@ -631,7 +553,6 @@
       "rarity": "ROYAL",
       "displayName": "Spring Seasoned Skull",
       "texturePath": "telos:material/ability/skull/ut-spring",
-      "maxPity": 120,
       "hasShiny": true
     },
     {
@@ -639,7 +560,6 @@
       "rarity": "ROYAL",
       "displayName": "Bow of the Forest",
       "texturePath": "telos:material/weapon/bow/ut-forest",
-      "maxPity": 120,
       "hasShiny": true
     },
     {
@@ -647,7 +567,6 @@
       "rarity": "ROYAL",
       "displayName": "Cursed Brigadine",
       "texturePath": "telos:material/armour/light/chestplate/ut-brigadine",
-      "maxPity": 120,
       "hasShiny": true
     },
     {
@@ -655,7 +574,6 @@
       "rarity": "ROYAL",
       "displayName": "Orb of Conflict",
       "texturePath": "telos:material/ability/orb/ut-conflict",
-      "maxPity": 120,
       "hasShiny": true
     },
     {
@@ -663,7 +581,6 @@
       "rarity": "ROYAL",
       "displayName": "Kunai of Conflict",
       "texturePath": "telos:material/ability/kunai/ut-conflict",
-      "maxPity": 120,
       "hasShiny": true
     },
     {
@@ -671,7 +588,6 @@
       "rarity": "ROYAL",
       "displayName": "Crystal Poison",
       "texturePath": "telos:material/ability/poison/ut-crystal",
-      "maxPity": 120,
       "hasShiny": true
     },
     {
@@ -679,7 +595,6 @@
       "rarity": "ROYAL",
       "displayName": "Crystal Kunai",
       "texturePath": "telos:material/ability/kunai/ut-crystal",
-      "maxPity": 120,
       "hasShiny": true
     },
     {
@@ -687,7 +602,6 @@
       "rarity": "ROYAL",
       "displayName": "Shield of Ogmur",
       "texturePath": "telos:material/ability/shield/ut-ogmur",
-      "maxPity": 120,
       "hasShiny": false
     },
     {
@@ -695,7 +609,6 @@
       "rarity": "ROYAL",
       "displayName": "Cloak of the Warlord",
       "texturePath": "telos:material/ability/cloak/ut-warlord",
-      "maxPity": 120,
       "hasShiny": true
     },
     {
@@ -703,7 +616,6 @@
       "rarity": "ROYAL",
       "displayName": "Emblem of the Juggernaut",
       "texturePath": "telos:material/ability/emblem/ut-juggernaut",
-      "maxPity": 120,
       "hasShiny": false
     },
     {
@@ -711,7 +623,6 @@
       "rarity": "ROYAL",
       "displayName": "Greaves of the Juggernaut",
       "texturePath": "telos:material/armour/heavy/leggings/ut-crayfish",
-      "maxPity": 120,
       "hasShiny": true
     },
     {
@@ -719,7 +630,6 @@
       "rarity": "ROYAL",
       "displayName": "Cloak of Bloody Surprises",
       "texturePath": "telos:material/ability/cloak/ut-bloody",
-      "maxPity": 120,
       "hasShiny": false
     },
     {
@@ -727,7 +637,6 @@
       "rarity": "ROYAL",
       "displayName": "Spooky Sandals",
       "texturePath": "telos:material/armour/light/boots/ut-spooky",
-      "maxPity": 120,
       "hasShiny": false
     },
     {
@@ -735,7 +644,6 @@
       "rarity": "ROYAL",
       "displayName": "Anubis Staff",
       "texturePath": "telos:material/weapon/staff/ut-anubis",
-      "maxPity": 120,
       "hasShiny": false
     },
     {
@@ -743,7 +651,6 @@
       "rarity": "ROYAL",
       "displayName": "Jewel of the Nile",
       "texturePath": "telos:material/ability/jewel/ut-nile",
-      "maxPity": 120,
       "hasShiny": false
     },
     {
@@ -751,7 +658,6 @@
       "rarity": "ROYAL",
       "displayName": "Sceptre of Gloom",
       "texturePath": "telos:material/weapon/sceptre/ut-gloom",
-      "maxPity": 120,
       "hasShiny": true
     },
     {
@@ -759,7 +665,6 @@
       "rarity": "ROYAL",
       "displayName": "Omnipotent Robe",
       "texturePath": "telos:material/armour/magical/chestplate/ut-omnipotent",
-      "maxPity": 120,
       "hasShiny": true
     },
     {
@@ -767,7 +672,6 @@
       "rarity": "ROYAL",
       "displayName": "Omnipotent Leggings",
       "texturePath": "telos:material/armour/magical/leggings/ut-omnipotent",
-      "maxPity": 120,
       "hasShiny": true
     },
     {
@@ -775,7 +679,6 @@
       "rarity": "BLOODSHOT",
       "displayName": "Blackhole Singularity",
       "texturePath": "telos:material/ability/trap/ut-blackhole",
-      "maxPity": 120,
       "hasShiny": false
     },
     {
@@ -783,7 +686,6 @@
       "rarity": "COMPANION",
       "displayName": "Mini Archmage",
       "texturePath": "telos:material/pet/omnipotents_citadel",
-      "maxPity": 120,
       "hasShiny": false
     },
     {
@@ -791,7 +693,6 @@
       "rarity": "COMPANION",
       "displayName": "Etherealmare",
       "texturePath": "telos:material/mount/omnipotents_citadel",
-      "maxPity": 120,
       "hasShiny": false
     },
     {
@@ -799,7 +700,6 @@
       "rarity": "ROYAL",
       "displayName": "Crystal Trap",
       "texturePath": "telos:material/ability/trap/ut-crystal",
-      "maxPity": 120,
       "hasShiny": false
     },
     {
@@ -807,7 +707,6 @@
       "rarity": "ROYAL",
       "displayName": "Crystal Shield",
       "texturePath": "telos:material/ability/shield/ut-crystal",
-      "maxPity": 120,
       "hasShiny": true
     },
     {
@@ -815,7 +714,6 @@
       "rarity": "ROYAL",
       "displayName": "Crystal Boots",
       "texturePath": "telos:material/armour/magical/boots/ut-fungal",
-      "maxPity": 120,
       "hasShiny": true
     },
     {
@@ -823,7 +721,6 @@
       "rarity": "BLOODSHOT",
       "displayName": "Amethyst Wormpiercer",
       "texturePath": "telos:material/weapon/bow/ut-amethyst",
-      "maxPity": 120,
       "hasShiny": false
     },
     {
@@ -831,7 +728,6 @@
       "rarity": "COMPANION",
       "displayName": "Minobi",
       "texturePath": "telos:material/pet/fungal_cavern",
-      "maxPity": 120,
       "hasShiny": false
     },
     {
@@ -839,7 +735,6 @@
       "rarity": "COMPANION",
       "displayName": "Mycohawk",
       "texturePath": "telos:material/mount/fungal_cavern",
-      "maxPity": 120,
       "hasShiny": false
     },
     {
@@ -847,7 +742,6 @@
       "rarity": "ROYAL",
       "displayName": "Spirit Dagger",
       "texturePath": "telos:material/weapon/dagger/ut-spirit",
-      "maxPity": 120,
       "hasShiny": false
     },
     {
@@ -855,7 +749,6 @@
       "rarity": "ROYAL",
       "displayName": "Ethereal Longbow",
       "texturePath": "telos:material/weapon/bow/ut-ethereal",
-      "maxPity": 120,
       "hasShiny": true
     },
     {
@@ -863,7 +756,6 @@
       "rarity": "ROYAL",
       "displayName": "Spectral Armour",
       "texturePath": "telos:material/armour/light/chestplate/ut-spectral",
-      "maxPity": 120,
       "hasShiny": true
     },
     {
@@ -871,7 +763,6 @@
       "rarity": "BLOODSHOT",
       "displayName": "Oceanic Torrent",
       "texturePath": "telos:material/ability/shield/ut-torrent",
-      "maxPity": 120,
       "hasShiny": false
     },
     {
@@ -879,7 +770,6 @@
       "rarity": "COMPANION",
       "displayName": "Mini Illusionist",
       "texturePath": "telos:material/pet/corsairs_conductorium",
-      "maxPity": 120,
       "hasShiny": false
     },
     {
@@ -887,7 +777,6 @@
       "rarity": "COMPANION",
       "displayName": "Spectral Steed",
       "texturePath": "telos:material/mount/corsairs_conductorium",
-      "maxPity": 120,
       "hasShiny": false
     },
     {
@@ -895,7 +784,6 @@
       "rarity": "ROYAL",
       "displayName": "Hollow Sabatons",
       "texturePath": "telos:material/armour/heavy/boots/ut-hollow",
-      "maxPity": 120,
       "hasShiny": true
     },
     {
@@ -903,7 +791,6 @@
       "rarity": "ROYAL",
       "displayName": "Kairos Heart",
       "texturePath": "telos:material/ability/scripture/ut-heart",
-      "maxPity": 120,
       "hasShiny": true
     },
     {
@@ -911,7 +798,6 @@
       "rarity": "ROYAL",
       "displayName": "Abyssal Wraps",
       "texturePath": "telos:material/armour/magical/leggings/ut-abyssal",
-      "maxPity": 120,
       "hasShiny": false
     },
     {
@@ -919,7 +805,6 @@
       "rarity": "BLOODSHOT",
       "displayName": "Mantle Of The Last Dusk",
       "texturePath": "telos:material/armour/magical/chestplate/ut-dusk",
-      "maxPity": 120,
       "hasShiny": false
     },
     {
@@ -927,7 +812,6 @@
       "rarity": "COMPANION",
       "displayName": "Night Riser",
       "texturePath": "telos:material/pet/midnight_stronghold",
-      "maxPity": 120,
       "hasShiny": false
     },
     {
@@ -935,7 +819,6 @@
       "rarity": "COMPANION",
       "displayName": "Phantommare",
       "texturePath": "telos:material/mount/midnight_stronghold",
-      "maxPity": 120,
       "hasShiny": false
     },
     {
@@ -943,7 +826,6 @@
       "rarity": "ROYAL",
       "displayName": "Mechanical Cutlass",
       "texturePath": "telos:material/weapon/sword/ut-cutlass",
-      "maxPity": 120,
       "hasShiny": false
     },
     {
@@ -951,7 +833,6 @@
       "rarity": "ROYAL",
       "displayName": "Blackhole Sandals",
       "texturePath": "telos:material/armour/light/boots/ut-blackhole",
-      "maxPity": 120,
       "hasShiny": false
     },
     {
@@ -959,7 +840,6 @@
       "rarity": "ROYAL",
       "displayName": "Voltaic Bomb",
       "texturePath": "telos:material/ability/bomb/ut-voltaic",
-      "maxPity": 120,
       "hasShiny": false
     },
     {
@@ -967,7 +847,6 @@
       "rarity": "BLOODSHOT",
       "displayName": "Cloak of Ionised Darkness",
       "texturePath": "telos:material/ability/cloak/ut-darkness",
-      "maxPity": 120,
       "hasShiny": false
     },
     {
@@ -975,7 +854,6 @@
       "rarity": "COMPANION",
       "displayName": "Beast Master",
       "texturePath": "telos:material/pet/anubis_lair",
-      "maxPity": 120,
       "hasShiny": false
     },
     {
@@ -983,7 +861,6 @@
       "rarity": "COMPANION",
       "displayName": "Necrowyrm",
       "texturePath": "telos:material/mount/anubis_lair",
-      "maxPity": 120,
       "hasShiny": false
     },
     {
@@ -991,7 +868,6 @@
       "rarity": "ROYAL",
       "displayName": "Soulrend Ravager",
       "texturePath": "telos:material/weapon/katana/ut-soulrend",
-      "maxPity": 120,
       "hasShiny": false
     },
     {
@@ -999,7 +875,6 @@
       "rarity": "ROYAL",
       "displayName": "Staff of Unholy Sacrifice",
       "texturePath": "telos:material/weapon/staff/ut-unholy",
-      "maxPity": 120,
       "hasShiny": false
     },
     {
@@ -1007,7 +882,6 @@
       "rarity": "ROYAL",
       "displayName": "Cultist Hood",
       "texturePath": "telos:material/armour/magical/helmet/ut-cultist",
-      "maxPity": 120,
       "hasShiny": true
     },
     {
@@ -1015,7 +889,6 @@
       "rarity": "BLOODSHOT",
       "displayName": "Souls of the Cult",
       "texturePath": "telos:material/ability/jewel/ut-souls",
-      "maxPity": 120,
       "hasShiny": false
     },
     {
@@ -1023,7 +896,6 @@
       "rarity": "COMPANION",
       "displayName": "Lil' Monk",
       "texturePath": "telos:material/pet/cultists_hideout",
-      "maxPity": 120,
       "hasShiny": false
     },
     {
@@ -1031,7 +903,6 @@
       "rarity": "COMPANION",
       "displayName": "Dusk Manticultist",
       "texturePath": "telos:material/mount/cultists_hideout",
-      "maxPity": 120,
       "hasShiny": false
     },
     {
@@ -1039,7 +910,6 @@
       "rarity": "ROYAL",
       "displayName": "Blossom Blade",
       "texturePath": "telos:material/weapon/katana/ut-blossom",
-      "maxPity": 120,
       "hasShiny": true
     },
     {
@@ -1047,7 +917,6 @@
       "rarity": "ROYAL",
       "displayName": "Dilapidated Scripture",
       "texturePath": "telos:material/ability/scripture/ut-dilapidated",
-      "maxPity": 120,
       "hasShiny": false
     },
     {
@@ -1055,7 +924,6 @@
       "rarity": "ROYAL",
       "displayName": "Greatwood Greaves",
       "texturePath": "telos:material/armour/heavy/leggings/ut-greatwood",
-      "maxPity": 120,
       "hasShiny": false
     },
     {
@@ -1063,7 +931,6 @@
       "rarity": "BLOODSHOT",
       "displayName": "Cranium Terrarium",
       "texturePath": "telos:material/ability/skull/ut-terrarium",
-      "maxPity": 120,
       "hasShiny": false
     },
     {
@@ -1071,7 +938,6 @@
       "rarity": "COMPANION",
       "displayName": "Elder Ent",
       "texturePath": "telos:material/pet/illarius_hideout",
-      "maxPity": 120,
       "hasShiny": false
     },
     {
@@ -1079,7 +945,6 @@
       "rarity": "COMPANION",
       "displayName": "Woodland Mantibane",
       "texturePath": "telos:material/mount/illarius_hideout",
-      "maxPity": 120,
       "hasShiny": false
     },
     {
@@ -1087,7 +952,6 @@
       "rarity": "ROYAL",
       "displayName": "Aerial Staff",
       "texturePath": "telos:material/weapon/staff/ut-aerial",
-      "maxPity": 120,
       "hasShiny": false
     },
     {
@@ -1095,7 +959,6 @@
       "rarity": "ROYAL",
       "displayName": "Orb of Purity",
       "texturePath": "telos:material/ability/orb/ut-purity",
-      "maxPity": 120,
       "hasShiny": true
     },
     {
@@ -1103,7 +966,6 @@
       "rarity": "ROYAL",
       "displayName": "Phoenix Plate",
       "texturePath": "telos:material/armour/heavy/chestplate/ut-phoenix",
-      "maxPity": 120,
       "hasShiny": false
     },
     {
@@ -1111,7 +973,6 @@
       "rarity": "BLOODSHOT",
       "displayName": "Resurgence",
       "texturePath": "telos:material/ability/star/ut-resurgence",
-      "maxPity": 120,
       "hasShiny": false
     },
     {
@@ -1119,7 +980,6 @@
       "rarity": "COMPANION",
       "displayName": "Dragon Warrior",
       "texturePath": "telos:material/pet/aviary",
-      "maxPity": 120,
       "hasShiny": false
     },
     {
@@ -1127,7 +987,6 @@
       "rarity": "COMPANION",
       "displayName": "Sunflare",
       "texturePath": "telos:material/mount/aviary",
-      "maxPity": 120,
       "hasShiny": false
     },
     {
@@ -1135,7 +994,6 @@
       "rarity": "ROYAL",
       "displayName": "Light's Pull",
       "texturePath": "telos:material/ability/bomb/ut-light",
-      "maxPity": 120,
       "hasShiny": false
     },
     {
@@ -1143,7 +1001,6 @@
       "rarity": "ROYAL",
       "displayName": "Dagger of Dissonance",
       "texturePath": "telos:material/weapon/dagger/ut-dissonance",
-      "maxPity": 120,
       "hasShiny": false
     },
     {
@@ -1151,7 +1008,6 @@
       "rarity": "ROYAL",
       "displayName": "Heaven's Augmentation",
       "texturePath": "telos:material/ability/emblem/ut-heaven",
-      "maxPity": 120,
       "hasShiny": true
     },
     {
@@ -1159,7 +1015,6 @@
       "rarity": "BLOODSHOT",
       "displayName": "Sun's Blessing",
       "texturePath": "telos:material/ability/scripture/ut-blessing",
-      "maxPity": 120,
       "hasShiny": false
     },
     {
@@ -1167,7 +1022,6 @@
       "rarity": "COMPANION",
       "displayName": "Radle",
       "texturePath": "telos:material/pet/aurora_sanctum",
-      "maxPity": 120,
       "hasShiny": false
     },
     {
@@ -1175,7 +1029,6 @@
       "rarity": "COMPANION",
       "displayName": "Glowscale",
       "texturePath": "telos:material/mount/aurora_sanctum",
-      "maxPity": 120,
       "hasShiny": false
     },
     {
@@ -1183,7 +1036,6 @@
       "rarity": "ROYAL",
       "displayName": "Cinder Reach",
       "texturePath": "telos:material/weapon/bow/ut-cinder",
-      "maxPity": 120,
       "hasShiny": true
     },
     {
@@ -1191,7 +1043,6 @@
       "rarity": "ROYAL",
       "displayName": "Cinder Scripture",
       "texturePath": "telos:material/ability/scripture/ut-cinder",
-      "maxPity": 120,
       "hasShiny": false
     },
     {
@@ -1199,7 +1050,6 @@
       "rarity": "ROYAL",
       "displayName": "Scorchscale Leggings",
       "texturePath": "telos:material/armour/light/leggings/ut-scorchscale",
-      "maxPity": 120,
       "hasShiny": true
     },
     {
@@ -1207,7 +1057,6 @@
       "rarity": "COMPANION",
       "displayName": "Tartalink",
       "texturePath": "telos:material/pet/tartarus",
-      "maxPity": 120,
       "hasShiny": false
     },
     {
@@ -1215,7 +1064,6 @@
       "rarity": "COMPANION",
       "displayName": "Emberaptor",
       "texturePath": "telos:material/mount/tartarus",
-      "maxPity": 120,
       "hasShiny": true
     },
     {
@@ -1223,7 +1071,6 @@
       "rarity": "ROYAL",
       "displayName": "Dark Guardian Sword",
       "texturePath": "telos:material/weapon/sword/ut-guardian",
-      "maxPity": 120,
       "hasShiny": true
     },
     {
@@ -1231,7 +1078,6 @@
       "rarity": "ROYAL",
       "displayName": "Slow Touch Orb",
       "texturePath": "telos:material/ability/orb/ut-slow",
-      "maxPity": 120,
       "hasShiny": true
     },
     {
@@ -1239,7 +1085,6 @@
       "rarity": "ROYAL",
       "displayName": "Corrupted Chaps",
       "texturePath": "telos:material/armour/light/leggings/ut-corrupted",
-      "maxPity": 120,
       "hasShiny": true
     },
     {
@@ -1247,7 +1092,6 @@
       "rarity": "BLOODSHOT",
       "displayName": "Calamity",
       "texturePath": "telos:material/weapon/sceptre/ut-onyx",
-      "maxPity": 75,
       "hasShiny": true
     },
     {
@@ -1255,7 +1099,6 @@
       "rarity": "BLOODSHOT",
       "displayName": "Retribution",
       "texturePath": "telos:material/weapon/sword/ut-onyx",
-      "maxPity": 75,
       "hasShiny": true
     },
     {
@@ -1263,7 +1106,6 @@
       "rarity": "BLOODSHOT",
       "displayName": "Rapture",
       "texturePath": "telos:material/weapon/bow/ut-onyx",
-      "maxPity": 75,
       "hasShiny": true
     },
     {
@@ -1271,7 +1113,6 @@
       "rarity": "BLOODSHOT",
       "displayName": "Martyr",
       "texturePath": "telos:material/weapon/staff/ut-onyx",
-      "maxPity": 75,
       "hasShiny": true
     },
     {
@@ -1279,7 +1120,6 @@
       "rarity": "BLOODSHOT",
       "displayName": "Reikon",
       "texturePath": "telos:material/weapon/katana/ut-onyx",
-      "maxPity": 75,
       "hasShiny": true
     },
     {
@@ -1287,7 +1127,6 @@
       "rarity": "BLOODSHOT",
       "displayName": "Malice",
       "texturePath": "telos:material/weapon/dagger/ut-onyx",
-      "maxPity": 75,
       "hasShiny": true
     },
     {
@@ -1295,7 +1134,6 @@
       "rarity": "BLOODSHOT",
       "displayName": "Wrathguard",
       "texturePath": "telos:material/armour/heavy/chestplate/ut-onyx",
-      "maxPity": 75,
       "hasShiny": true
     },
     {
@@ -1303,7 +1141,6 @@
       "rarity": "BLOODSHOT",
       "displayName": "Bloodstriders",
       "texturePath": "telos:material/armour/light/leggings/ut-onyx",
-      "maxPity": 75,
       "hasShiny": true
     },
     {
@@ -1311,7 +1148,6 @@
       "rarity": "BLOODSHOT",
       "displayName": "Rueforge",
       "texturePath": "telos:material/armour/magical/boots/ut-onyx",
-      "maxPity": 75,
       "hasShiny": true
     },
     {
@@ -1319,7 +1155,6 @@
       "rarity": "BLOODSHOT",
       "displayName": "Crimson Sourcestone",
       "texturePath": "telos:material/misc/sourcestone",
-      "maxPity": 66,
       "hasShiny": true
     },
     {
@@ -1327,7 +1162,6 @@
       "rarity": "COMPANION",
       "displayName": "Exaltling",
       "texturePath": "telos:material/pet/onyx",
-      "maxPity": 120,
       "hasShiny": false
     },
     {
@@ -1335,7 +1169,6 @@
       "rarity": "COMPANION",
       "displayName": "Celestial Serpent",
       "texturePath": "telos:material/mount/onyx",
-      "maxPity": 120,
       "hasShiny": false
     },
     {
@@ -1343,7 +1176,6 @@
       "rarity": "BLOODSHOT",
       "displayName": "Event Horizon",
       "texturePath": "telos:material/ability/orb/ut-horizon",
-      "maxPity": 120,
       "hasShiny": true
     },
     {
@@ -1351,7 +1183,6 @@
       "rarity": "BLOODSHOT",
       "displayName": "Oblivion's Reach",
       "texturePath": "telos:material/ability/emblem/ut-oblivion",
-      "maxPity": 120,
       "hasShiny": false
     },
     {
@@ -1359,7 +1190,6 @@
       "rarity": "BLOODSHOT",
       "displayName": "Shadow Silk",
       "texturePath": "telos:material/armour/magical/leggings/ut-shadow",
-      "maxPity": 120,
       "hasShiny": false
     },
     {
@@ -1367,7 +1197,6 @@
       "rarity": "VOIDBOUND",
       "displayName": "Fractured Nihility",
       "texturePath": "telos:material/misc/nihility",
-      "maxPity": 120,
       "hasShiny": true
     },
     {
@@ -1375,7 +1204,6 @@
       "rarity": "COMPANION",
       "displayName": "Shadow Chirp",
       "texturePath": "telos:material/pet/tenebris",
-      "maxPity": 120,
       "hasShiny": false
     },
     {
@@ -1383,7 +1211,6 @@
       "rarity": "COMPANION",
       "displayName": "Dreadspire Drake",
       "texturePath": "telos:material/mount/tenebris",
-      "maxPity": 120,
       "hasShiny": false
     },
     {
@@ -1391,7 +1218,6 @@
       "rarity": "BLOODSHOT",
       "displayName": "Valerion's Poniard",
       "texturePath": "telos:material/weapon/dagger/ut-poniard",
-      "maxPity": 120,
       "hasShiny": true
     },
     {
@@ -1399,7 +1225,6 @@
       "rarity": "BLOODSHOT",
       "displayName": "Valerion's Bane",
       "texturePath": "telos:material/weapon/katana/ut-bane",
-      "maxPity": 120,
       "hasShiny": true
     },
     {
@@ -1407,7 +1232,6 @@
       "rarity": "BLOODSHOT",
       "displayName": "Custodian's Visor",
       "texturePath": "telos:material/armour/light/helmet/ut-sentinel",
-      "maxPity": 120,
       "hasShiny": true
     },
     {
@@ -1415,7 +1239,6 @@
       "rarity": "BLOODSHOT",
       "displayName": "Nebula's Battleaxe",
       "texturePath": "telos:material/weapon/sword/ut-battleaxe",
-      "maxPity": 120,
       "hasShiny": true
     },
     {
@@ -1423,7 +1246,6 @@
       "rarity": "BLOODSHOT",
       "displayName": "Dusk Weaver",
       "texturePath": "telos:material/weapon/sceptre/ut-dusk",
-      "maxPity": 120,
       "hasShiny": true
     },
     {
@@ -1431,7 +1253,6 @@
       "rarity": "BLOODSHOT",
       "displayName": "Archon's Glare",
       "texturePath": "telos:material/armour/magical/helmet/ut-mage",
-      "maxPity": 120,
       "hasShiny": true
     },
     {
@@ -1439,7 +1260,6 @@
       "rarity": "BLOODSHOT",
       "displayName": "Final Destination",
       "texturePath": "telos:material/weapon/staff/ut-destination",
-      "maxPity": 120,
       "hasShiny": true
     },
     {
@@ -1447,7 +1267,6 @@
       "rarity": "BLOODSHOT",
       "displayName": "Oracle's End",
       "texturePath": "telos:material/weapon/bow/ut-oracle",
-      "maxPity": 120,
       "hasShiny": true
     },
     {
@@ -1455,7 +1274,6 @@
       "rarity": "BLOODSHOT",
       "displayName": "Crown of Ethereal Radiance",
       "texturePath": "telos:material/armour/heavy/helmet/ut-crown",
-      "maxPity": 120,
       "hasShiny": true
     },
     {
@@ -1463,7 +1281,6 @@
       "rarity": "COMPANION",
       "displayName": "Lumine",
       "texturePath": "telos:material/pet/shatters",
-      "maxPity": 120,
       "hasShiny": false
     },
     {
@@ -1471,7 +1288,6 @@
       "rarity": "COMPANION",
       "displayName": "Astralflare",
       "texturePath": "telos:material/mount/shatters",
-      "maxPity": 120,
       "hasShiny": false
     },
     {
@@ -1479,7 +1295,6 @@
       "rarity": "UNHOLY",
       "displayName": "The Pendant of Sin",
       "texturePath": "telos:material/misc/pendant",
-      "maxPity": 120,
       "hasShiny": true
     },
     {
@@ -1487,7 +1302,6 @@
       "rarity": "ROYAL",
       "displayName": "Warden's Faceguard",
       "texturePath": "telos:material/armour/heavy/helmet/ut-faceguard",
-      "maxPity": 120,
       "hasShiny": false
     },
     {
@@ -1495,7 +1309,6 @@
       "rarity": "ROYAL",
       "displayName": "Warden's Garment",
       "texturePath": "telos:material/armour/magical/chestplate/ut-garment",
-      "maxPity": 120,
       "hasShiny": false
     },
     {
@@ -1503,7 +1316,6 @@
       "rarity": "BLOODSHOT",
       "displayName": "Dawnbringer",
       "texturePath": "telos:material/weapon/katana/ut-dawnbringer",
-      "maxPity": 120,
       "hasShiny": false
     },
     {
@@ -1511,7 +1323,6 @@
       "rarity": "BLOODSHOT",
       "displayName": "Last Stand",
       "texturePath": "telos:material/ability/trap/ut-last",
-      "maxPity": 120,
       "hasShiny": false
     },
     {
@@ -1519,7 +1330,6 @@
       "rarity": "ROYAL",
       "displayName": "Heraldic Heelguards",
       "texturePath": "telos:material/armour/heavy/boots/ut-heelguards",
-      "maxPity": 120,
       "hasShiny": false
     },
     {
@@ -1527,7 +1337,6 @@
       "rarity": "ROYAL",
       "displayName": "Luminous Flame",
       "texturePath": "telos:material/weapon/sceptre/ut-luminous",
-      "maxPity": 120,
       "hasShiny": false
     },
     {
@@ -1535,7 +1344,6 @@
       "rarity": "BLOODSHOT",
       "displayName": "Seraph's Essence",
       "texturePath": "telos:material/ability/orb/ut-essence",
-      "maxPity": 120,
       "hasShiny": true
     },
     {
@@ -1543,7 +1351,6 @@
       "rarity": "ROYAL",
       "displayName": "Soulless Shoes",
       "texturePath": "telos:material/armour/magical/boots/ut-soulless",
-      "maxPity": 120,
       "hasShiny": false
     },
     {
@@ -1551,7 +1358,6 @@
       "rarity": "ROYAL",
       "displayName": "Chalice of Rot",
       "texturePath": "telos:material/ability/poison/ut-rot",
-      "maxPity": 120,
       "hasShiny": false
     },
     {
@@ -1559,7 +1365,6 @@
       "rarity": "BLOODSHOT",
       "displayName": "Reaper's Vest",
       "texturePath": "telos:material/armour/light/chestplate/ut-reaper",
-      "maxPity": 120,
       "hasShiny": false
     },
     {
@@ -1567,7 +1372,6 @@
       "rarity": "BLOODSHOT",
       "displayName": "Shrouded Shield",
       "texturePath": "telos:material/ability/shield/ut-shrouded",
-      "maxPity": 120,
       "hasShiny": true
     },
     {
@@ -1575,7 +1379,6 @@
       "rarity": "BLOODSHOT",
       "displayName": "Phantasmic Greaves",
       "texturePath": "telos:material/armour/heavy/leggings/ut-phantasmic",
-      "maxPity": 120,
       "hasShiny": true
     },
     {
@@ -1583,7 +1386,6 @@
       "rarity": "BLOODSHOT",
       "displayName": "Afterburner",
       "texturePath": "telos:material/ability/cloak/ut-fire",
-      "maxPity": 120,
       "hasShiny": true
     },
     {
@@ -1591,7 +1393,6 @@
       "rarity": "BLOODSHOT",
       "displayName": "Usnea",
       "texturePath": "telos:material/ability/skull/ut-usnea",
-      "maxPity": 120,
       "hasShiny": true
     },
     {
@@ -1599,7 +1400,6 @@
       "rarity": "BLOODSHOT",
       "displayName": "Nature's Gift",
       "texturePath": "telos:material/armour/light/boots/ut-nature",
-      "maxPity": 120,
       "hasShiny": true
     },
     {
@@ -1607,7 +1407,6 @@
       "rarity": "BLOODSHOT",
       "displayName": "Spiritbloom Gown",
       "texturePath": "telos:material/armour/magical/chestplate/ut-spiritbloom",
-      "maxPity": 120,
       "hasShiny": true
     },
     {
@@ -1615,7 +1414,6 @@
       "rarity": "COMPANION",
       "displayName": "Mosslight",
       "texturePath": "telos:material/pet/dreadwood_thicket",
-      "maxPity": 120,
       "hasShiny": false
     },
     {
@@ -1623,7 +1421,6 @@
       "rarity": "COMPANION",
       "displayName": "Vinegleam",
       "texturePath": "telos:material/mount/dreadwood_thicket",
-      "maxPity": 120,
       "hasShiny": false
     },
     {
@@ -1631,7 +1428,6 @@
       "rarity": "BLOODSHOT",
       "displayName": "Sonic Doom",
       "texturePath": "telos:material/weapon/sword/ut-doom",
-      "maxPity": 120,
       "hasShiny": false
     },
     {
@@ -1639,7 +1435,6 @@
       "rarity": "BLOODSHOT",
       "displayName": "Echolurkator",
       "texturePath": "telos:material/weapon/staff/ut-echo",
-      "maxPity": 120,
       "hasShiny": true
     },
     {
@@ -1647,7 +1442,6 @@
       "rarity": "BLOODSHOT",
       "displayName": "Spinestone",
       "texturePath": "telos:material/ability/jewel/ut-spinestone",
-      "maxPity": 120,
       "hasShiny": true
     },
     {
@@ -1655,7 +1449,6 @@
       "rarity": "COMPANION",
       "displayName": "Legion",
       "texturePath": "telos:material/pet/resounding_ruins",
-      "maxPity": 120,
       "hasShiny": false
     },
     {
@@ -1663,7 +1456,6 @@
       "rarity": "COMPANION",
       "displayName": "Echoraptor",
       "texturePath": "telos:material/mount/resounding_ruins",
-      "maxPity": 120,
       "hasShiny": false
     },
     {
@@ -1671,7 +1463,6 @@
       "rarity": "BLOODSHOT",
       "displayName": "Visage of the Night",
       "texturePath": "telos:material/ability/emblem/ut-visage",
-      "maxPity": 120,
       "hasShiny": true
     },
     {
@@ -1679,7 +1470,6 @@
       "rarity": "BLOODSHOT",
       "displayName": "Baphomet's Bomb",
       "texturePath": "telos:material/ability/bomb/ut-baphomet",
-      "maxPity": 120,
       "hasShiny": true
     },
     {
@@ -1687,7 +1477,6 @@
       "rarity": "BLOODSHOT",
       "displayName": "Blood of the Heretics",
       "texturePath": "telos:material/ability/poison/ut-heretics",
-      "maxPity": 120,
       "hasShiny": true
     },
     {
@@ -1695,7 +1484,6 @@
       "rarity": "BLOODSHOT",
       "displayName": "Feathers of the Seraph",
       "texturePath": "telos:material/ability/kunai/ut-feathers",
-      "maxPity": 120,
       "hasShiny": true
     },
     {
@@ -1703,7 +1491,6 @@
       "rarity": "BLOODSHOT",
       "displayName": "Empyrean Epitome",
       "texturePath": "telos:material/ability/skull/ut-epitome",
-      "maxPity": 120,
       "hasShiny": true
     },
     {
@@ -1711,7 +1498,6 @@
       "rarity": "COMPANION",
       "displayName": "Thanatos",
       "texturePath": "telos:material/pet/celestials_province",
-      "maxPity": 120,
       "hasShiny": false
     },
     {
@@ -1719,7 +1505,6 @@
       "rarity": "COMPANION",
       "displayName": "Seraphix",
       "texturePath": "telos:material/mount/celestials_province",
-      "maxPity": 120,
       "hasShiny": false
     },
     {
@@ -1727,7 +1512,6 @@
       "rarity": "UNHOLY",
       "displayName": "The Holy Cross",
       "texturePath": "telos:material/misc/cross",
-      "maxPity": 120,
       "hasShiny": true
     },
     {
@@ -1735,7 +1519,6 @@
       "rarity": "UNHOLY",
       "displayName": "Charm of Blasphemy",
       "texturePath": "telos:material/misc/blasphemy",
-      "maxPity": 120,
       "hasShiny": true
     },
     {
@@ -1743,7 +1526,6 @@
       "rarity": "COMPANION",
       "displayName": "Cheracube",
       "texturePath": "telos:material/pet/neo_eden",
-      "maxPity": 120,
       "hasShiny": false
     },
     {
@@ -1751,7 +1533,6 @@
       "rarity": "COMPANION",
       "displayName": "Ezekyros",
       "texturePath": "telos:material/mount/neo_eden",
-      "maxPity": 120,
       "hasShiny": false
     },
     {
@@ -1759,7 +1540,6 @@
       "rarity": "BLOODSHOT",
       "displayName": "Master's Key",
       "texturePath": "telos:material/ability/kunai/ut-key",
-      "maxPity": 120,
       "hasShiny": false
     },
     {
@@ -1767,7 +1547,6 @@
       "rarity": "BLOODSHOT",
       "displayName": "Prominence",
       "texturePath": "telos:material/weapon/sword/ut-prominence",
-      "maxPity": 120,
       "hasShiny": true
     },
     {
@@ -1775,7 +1554,6 @@
       "rarity": "BLOODSHOT",
       "displayName": "Flames of Pentecost",
       "texturePath": "telos:material/weapon/staff/ut-pentecost",
-      "maxPity": 120,
       "hasShiny": true
     },
     {
@@ -1783,7 +1561,6 @@
       "rarity": "BLOODSHOT",
       "displayName": "Dauntless Inferno",
       "texturePath": "telos:material/armour/heavy/boots/ut-inferno",
-      "maxPity": 120,
       "hasShiny": false
     },
     {
@@ -1791,7 +1568,6 @@
       "rarity": "BLOODSHOT",
       "displayName": "Forbidden Fleece",
       "texturePath": "telos:material/armour/light/chestplate/ut-forbidden",
-      "maxPity": 120,
       "hasShiny": false
     },
     {
@@ -1799,7 +1575,6 @@
       "rarity": "BLOODSHOT",
       "displayName": "Nachash of the First Lie",
       "texturePath": "telos:material/weapon/katana/ut-nachash",
-      "maxPity": 120,
       "hasShiny": true
     },
     {
@@ -1807,7 +1582,6 @@
       "rarity": "BLOODSHOT",
       "displayName": "Sceptre of the Fractured Firmament",
       "texturePath": "telos:material/weapon/sceptre/ut-firmament",
-      "maxPity": 120,
       "hasShiny": true
     },
     {
@@ -1815,7 +1589,6 @@
       "rarity": "BLOODSHOT",
       "displayName": "Leggings of False Glory",
       "texturePath": "telos:material/armour/magical/leggings/ut-glory",
-      "maxPity": 120,
       "hasShiny": false
     },
     {
@@ -1823,7 +1596,6 @@
       "rarity": "BLOODSHOT",
       "displayName": "Category Six",
       "texturePath": "telos:material/weapon/dagger/ut-six",
-      "maxPity": 120,
       "hasShiny": true
     },
     {
@@ -1831,7 +1603,6 @@
       "rarity": "BLOODSHOT",
       "displayName": "Se'arah",
       "texturePath": "telos:material/weapon/bow/ut-searah",
-      "maxPity": 120,
       "hasShiny": true
     },
     {
@@ -1839,7 +1610,6 @@
       "rarity": "ROYAL",
       "displayName": "Engineer's Blueprint",
       "texturePath": "telos:material/ability/skull/ut-engineer",
-      "maxPity": 120,
       "hasShiny": false
     },
     {
@@ -1847,7 +1617,6 @@
       "rarity": "ROYAL",
       "displayName": "Cogwheel Shield",
       "texturePath": "telos:material/ability/shield/ut-cogwheel",
-      "maxPity": 120,
       "hasShiny": false
     },
     {
@@ -1855,7 +1624,6 @@
       "rarity": "GILDED",
       "displayName": "Sharp Pain",
       "texturePath": "telos:material/weapon/staff/ut-sharp",
-      "maxPity": 120,
       "hasShiny": false
     },
     {
@@ -1863,7 +1631,6 @@
       "rarity": "GILDED",
       "displayName": "Screech of Silence",
       "texturePath": "telos:material/weapon/sceptre/ut-silence",
-      "maxPity": 120,
       "hasShiny": false
     },
     {
@@ -1871,7 +1638,6 @@
       "rarity": "GILDED",
       "displayName": "Screech of Silence",
       "texturePath": "telos:material/ability/skull/ut-slime",
-      "maxPity": 120,
       "hasShiny": false
     },
     {
@@ -1879,7 +1645,6 @@
       "rarity": "GILDED",
       "displayName": "Sacrificial Vow",
       "texturePath": "telos:material/armour/heavy/helmet/ut-vow",
-      "maxPity": 120,
       "hasShiny": true
     },
     {
@@ -1887,7 +1652,6 @@
       "rarity": "ROYAL",
       "displayName": "Branch of Yggdrasil",
       "texturePath": "telos:material/weapon/sceptre/ut-branch",
-      "maxPity": 120,
       "hasShiny": false
     },
     {
@@ -1895,7 +1659,6 @@
       "rarity": "ROYAL",
       "displayName": "Dirk of Conflict",
       "texturePath": "telos:material/weapon/dagger/ut-conflict",
-      "maxPity": 120,
       "hasShiny": true
     },
     {
@@ -1903,7 +1666,6 @@
       "rarity": "ROYAL",
       "displayName": "Crystal Gumboots",
       "texturePath": "telos:material/armour/light/boots/ut-gumboots",
-      "maxPity": 120,
       "hasShiny": false
     },
     {
@@ -1911,7 +1673,6 @@
       "rarity": "ROYAL",
       "displayName": "Star of Validation",
       "texturePath": "telos:material/ability/star/ut-validation",
-      "maxPity": 120,
       "hasShiny": false
     },
     {
@@ -1919,7 +1680,6 @@
       "rarity": "ROYAL",
       "displayName": "Chief's Crown",
       "texturePath": "telos:material/armour/magical/helmet/ut-chief",
-      "maxPity": 120,
       "hasShiny": true
     },
     {
@@ -1927,7 +1687,6 @@
       "rarity": "ROYAL",
       "displayName": "Ghastly Howl",
       "texturePath": "telos:material/weapon/sword/ut-howl",
-      "maxPity": 120,
       "hasShiny": false
     },
     {
@@ -1935,7 +1694,6 @@
       "rarity": "ROYAL",
       "displayName": "Trap of Eggsellence",
       "texturePath": "telos:material/ability/trap/ut-eggsellence",
-      "maxPity": 120,
       "hasShiny": false
     },
     {
@@ -1943,7 +1701,6 @@
       "rarity": "ROYAL",
       "displayName": "Face Of The Hound",
       "texturePath": "telos:material/armour/heavy/helmet/ut-hound",
-      "maxPity": 120,
       "hasShiny": false
     },
     {
@@ -1951,7 +1708,6 @@
       "rarity": "BLOODSHOT",
       "displayName": "Desperado",
       "texturePath": "telos:material/ability/bomb/ut-desperado",
-      "maxPity": 120,
       "hasShiny": true
     },
     {
@@ -1959,7 +1715,6 @@
       "rarity": "BLOODSHOT",
       "displayName": "All for One",
       "texturePath": "telos:material/ability/scripture/ut-one",
-      "maxPity": 120,
       "hasShiny": true
     },
     {
@@ -1967,7 +1722,6 @@
       "rarity": "BLOODSHOT",
       "displayName": "Plan B",
       "texturePath": "telos:material/ability/star/ut-plan",
-      "maxPity": 120,
       "hasShiny": true
     },
     {
@@ -1975,7 +1729,6 @@
       "rarity": "VOIDBOUND",
       "displayName": "Eternal Maw",
       "texturePath": "telos:material/misc/maw",
-      "maxPity": 120,
       "hasShiny": true
     },
     {
@@ -1983,7 +1736,6 @@
       "rarity": "COMPANION",
       "displayName": "Dreadsnatcher",
       "texturePath": "telos:material/mount/dreadsnatcher",
-      "maxPity": 120,
       "hasShiny": false
     },
     {
@@ -1991,7 +1743,6 @@
       "rarity": "COMPANION",
       "displayName": "Bramble Bow",
       "texturePath": "telos:material/skin/hallowed_bow",
-      "maxPity": 120,
       "hasShiny": false
     },
     {
@@ -1999,7 +1750,6 @@
       "rarity": "COMPANION",
       "displayName": "Dirk Of Horrors",
       "texturePath": "telos:material/skin/hallowed_dagger",
-      "maxPity": 120,
       "hasShiny": false
     },
     {
@@ -2007,7 +1757,6 @@
       "rarity": "COMPANION",
       "displayName": "Sceptre of Soulbound Terror",
       "texturePath": "telos:material/skin/hallowed_sceptre",
-      "maxPity": 120,
       "hasShiny": false
     },
     {
@@ -2015,7 +1764,6 @@
       "rarity": "COMPANION",
       "displayName": "Kunai of Cursed Souls",
       "texturePath": "telos:material/skin/hallowed_kunai",
-      "maxPity": 120,
       "hasShiny": false
     },
     {
@@ -2023,7 +1771,6 @@
       "rarity": "COMPANION",
       "displayName": "Eye of Confliction",
       "texturePath": "telos:material/skin/hallowed_orb",
-      "maxPity": 120,
       "hasShiny": false
     },
     {
@@ -2031,7 +1778,6 @@
       "rarity": "COMPANION",
       "displayName": "Hollows Harvest",
       "texturePath": "telos:material/skin/hallowed_scripture",
-      "maxPity": 120,
       "hasShiny": false
     },
     {
@@ -2039,7 +1785,6 @@
       "rarity": "COMPANION",
       "displayName": "Solar Eclipse Staff",
       "texturePath": "telos:material/skin/hallowed_staff",
-      "maxPity": 120,
       "hasShiny": false
     },
     {
@@ -2047,7 +1792,6 @@
       "rarity": "COMPANION",
       "displayName": "Gemalof",
       "texturePath": "telos:material/pet/valley_of_the_lost",
-      "maxPity": 120,
       "hasShiny": false
     },
     {
@@ -2055,7 +1799,6 @@
       "rarity": "COMPANION",
       "displayName": "Yamalof",
       "texturePath": "telos:material/mount/valley_of_the_lost",
-      "maxPity": 120,
       "hasShiny": false
     }
   ]
