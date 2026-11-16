@@ -1,0 +1,312 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": 1,
+  "entries": [
+    {
+      "id": "TIER_01",
+      "tier": 1,
+      "xp": 8000,
+      "icon": "telos:material/crate/uncommon"
+    },
+    {
+      "id": "TIER_02",
+      "tier": 2,
+      "xp": 16500,
+      "icon": "telos:material/misc/soulpoint1"
+    },
+    {
+      "id": "TIER_03",
+      "tier": 3,
+      "xp": 25000,
+      "icon": "telos:material/mount/fabled"
+    },
+    {
+      "id": "TIER_04",
+      "tier": 4,
+      "xp": 33000,
+      "icon": "telos:material/fragment/gilded"
+    },
+    {
+      "id": "TIER_05",
+      "tier": 5,
+      "xp": 42000,
+      "icon": "telos:material/misc/character_slot"
+    },
+    {
+      "id": "TIER_06",
+      "tier": 6,
+      "xp": 51000,
+      "icon": "telos:material/pet/psilas"
+    },
+    {
+      "id": "TIER_07",
+      "tier": 7,
+      "xp": 61000,
+      "icon": "telos:material/misc/hq_gilded"
+    },
+    {
+      "id": "TIER_08",
+      "tier": 8,
+      "xp": 70000,
+      "icon": "telos:material/crate/epic"
+    },
+    {
+      "id": "TIER_09",
+      "tier": 9,
+      "xp": 80000,
+      "icon": "telos:material/pouch/gilded"
+    },
+    {
+      "id": "TIER_10",
+      "tier": 10,
+      "xp": 91000,
+      "icon": "telos:material/misc/dungeon_epic"
+    },
+    {
+      "id": "TIER_11",
+      "tier": 11,
+      "xp": 101000,
+      "icon": "telos:material/crate/rare"
+    },
+    {
+      "id": "TIER_12",
+      "tier": 12,
+      "xp": 112000,
+      "icon": "telos:material/fragment/royal"
+    },
+    {
+      "id": "TIER_13",
+      "tier": 13,
+      "xp": 124000,
+      "icon": "telos:material/sticker/point_and_laugh"
+    },
+    {
+      "id": "TIER_14",
+      "tier": 14,
+      "xp": 135000,
+      "icon": "telos:material/misc/soulpoint2"
+    },
+    {
+      "id": "TIER_15",
+      "tier": 15,
+      "xp": 148000,
+      "icon": "telos:material/crate/uncommon"
+    },
+    {
+      "id": "TIER_16",
+      "tier": 16,
+      "xp": 160000,
+      "icon": "telos:material/misc/hq_royal"
+    },
+    {
+      "id": "TIER_17",
+      "tier": 17,
+      "xp": 173000,
+      "icon": "telos:material/crate/strange"
+    },
+    {
+      "id": "TIER_18",
+      "tier": 18,
+      "xp": 187000,
+      "icon": "telos:material/misc/stash_slot"
+    },
+    {
+      "id": "TIER_19",
+      "tier": 19,
+      "xp": 201000,
+      "icon": "telos:material/fragment/bloodshot"
+    },
+    {
+      "id": "TIER_20",
+      "tier": 20,
+      "xp": 216000,
+      "icon": "telos:material/misc/dungeon_epic"
+    },
+    {
+      "id": "TIER_21",
+      "tier": 21,
+      "xp": 231000,
+      "icon": "telos:material/crate/epic"
+    },
+    {
+      "id": "TIER_22",
+      "tier": 22,
+      "xp": 246000,
+      "icon": "telos:material/misc/soulpoint3"
+    },
+    {
+      "id": "TIER_23",
+      "tier": 23,
+      "xp": 263000,
+      "icon": "telos:material/mount/voyager"
+    },
+    {
+      "id": "TIER_24",
+      "tier": 24,
+      "xp": 280000,
+      "icon": "telos:material/misc/stash_slot"
+    },
+    {
+      "id": "TIER_25",
+      "tier": 25,
+      "xp": 297000,
+      "icon": "telos:material/misc/dungeon_legendary"
+    },
+    {
+      "id": "TIER_26",
+      "tier": 26,
+      "xp": 315000,
+      "icon": "telos:material/crate/uncommon"
+    },
+    {
+      "id": "TIER_27",
+      "tier": 27,
+      "xp": 334000,
+      "icon": "telos:material/sticker/sonverling"
+    },
+    {
+      "id": "TIER_28",
+      "tier": 28,
+      "xp": 354000,
+      "icon": "telos:material/pouch/royal"
+    },
+    {
+      "id": "TIER_29",
+      "tier": 29,
+      "xp": 374000,
+      "icon": "telos:material/crate/strange"
+    },
+    {
+      "id": "TIER_30",
+      "tier": 30,
+      "xp": 395000,
+      "icon": "telos:material/crate/epic"
+    },
+    {
+      "id": "TIER_31",
+      "tier": 31,
+      "xp": 417000,
+      "icon": "telos:material/crate/rare"
+    },
+    {
+      "id": "TIER_32",
+      "tier": 32,
+      "xp": 439000,
+      "icon": "telos:material/misc/soulpoint4"
+    },
+    {
+      "id": "TIER_33",
+      "tier": 33,
+      "xp": 462000,
+      "icon": "telos:material/sticker/your_world_is_done"
+    },
+    {
+      "id": "TIER_34",
+      "tier": 34,
+      "xp": 487000,
+      "icon": "telos:material/misc/dungeon_legendary"
+    },
+    {
+      "id": "TIER_35",
+      "tier": 35,
+      "xp": 511000,
+      "icon": "telos:material/misc/character_slot"
+    },
+    {
+      "id": "TIER_36",
+      "tier": 36,
+      "xp": 537000,
+      "icon": "telos:material/crate/strange"
+    },
+    {
+      "id": "TIER_37",
+      "tier": 37,
+      "xp": 564000,
+      "icon": "telos:material/fragment/bloodshot"
+    },
+    {
+      "id": "TIER_38",
+      "tier": 38,
+      "xp": 591000,
+      "icon": "telos:material/misc/hq_royal"
+    },
+    {
+      "id": "TIER_39",
+      "tier": 39,
+      "xp": 620000,
+      "icon": "telos:material/crate/epic"
+    },
+    {
+      "id": "TIER_40",
+      "tier": 40,
+      "xp": 649000,
+      "icon": "telos:material/misc/dungeon_epic"
+    },
+    {
+      "id": "TIER_41",
+      "tier": 41,
+      "xp": 680000,
+      "icon": "telos:material/crate/strange"
+    },
+    {
+      "id": "TIER_42",
+      "tier": 42,
+      "xp": 711000,
+      "icon": "telos:material/misc/soulpoint5"
+    },
+    {
+      "id": "TIER_43",
+      "tier": 43,
+      "xp": 743000,
+      "icon": "telos:material/misc/hq_bloodshot"
+    },
+    {
+      "id": "TIER_44",
+      "tier": 44,
+      "xp": 777000,
+      "icon": "telos:material/misc/soulpoint4"
+    },
+    {
+      "id": "TIER_45",
+      "tier": 45,
+      "xp": 811000,
+      "icon": "telos:material/crate/epic"
+    },
+    {
+      "id": "TIER_46",
+      "tier": 46,
+      "xp": 847000,
+      "icon": "telos:material/fragment/bloodshot"
+    },
+    {
+      "id": "TIER_47",
+      "tier": 47,
+      "xp": 883000,
+      "icon": "telos:material/crate/fabled"
+    },
+    {
+      "id": "TIER_48",
+      "tier": 48,
+      "xp": 921000,
+      "icon": "telos:material/crate/legendary"
+    },
+    {
+      "id": "TIER_49",
+      "tier": 49,
+      "xp": 960000,
+      "icon": "telos:material/crate/exotic"
+    },
+    {
+      "id": "TIER_50",
+      "tier": 50,
+      "xp": 1000000,
+      "icon": "telos:material/pouch/bloodshot"
+    }
+  ],
+  "pageCount": 5,
+  "tiersPerPage": 10,
+  "premiumSlots": [
+    3,
+    8
+  ]
+}

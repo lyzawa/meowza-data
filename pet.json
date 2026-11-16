@@ -1,0 +1,147 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": 1,
+  "entries": [
+    {
+      "dungeon": "desert_temple",
+      "rarity": "USUAL"
+    },
+    {
+      "dungeon": "goblin_lair",
+      "rarity": "USUAL"
+    },
+    {
+      "dungeon": "sakura_shrine",
+      "rarity": "USUAL"
+    },
+    {
+      "dungeon": "secluded_woodland",
+      "rarity": "USUAL"
+    },
+    {
+      "dungeon": "skull_cavern",
+      "rarity": "USUAL"
+    },
+    {
+      "dungeon": "thornwood_wargrove",
+      "rarity": "USUAL"
+    },
+    {
+      "dungeon": "tomb_of_shadows",
+      "rarity": "USUAL"
+    },
+    {
+      "dungeon": "abyss_of_demons",
+      "rarity": "STRANGE"
+    },
+    {
+      "dungeon": "corvus_crypt",
+      "rarity": "STRANGE"
+    },
+    {
+      "dungeon": "dwarven_frostkeep",
+      "rarity": "STRANGE"
+    },
+    {
+      "dungeon": "frozen_ruins",
+      "rarity": "STRANGE"
+    },
+    {
+      "dungeon": "ice_cave",
+      "rarity": "STRANGE"
+    },
+    {
+      "dungeon": "kobolds_den",
+      "rarity": "STRANGE"
+    },
+    {
+      "dungeon": "purgatory",
+      "rarity": "STRANGE"
+    },
+    {
+      "dungeon": "treasure_cave",
+      "rarity": "STRANGE"
+    },
+    {
+      "dungeon": "undead_lair",
+      "rarity": "STRANGE"
+    },
+    {
+      "dungeon": "anubis_lair",
+      "rarity": "FABLED"
+    },
+    {
+      "dungeon": "corsairs_conductorium",
+      "rarity": "FABLED"
+    },
+    {
+      "dungeon": "fungal_cavern",
+      "rarity": "FABLED"
+    },
+    {
+      "dungeon": "midnight_stronghold",
+      "rarity": "FABLED"
+    },
+    {
+      "dungeon": "omnipotents_citadel",
+      "rarity": "FABLED"
+    },
+    {
+      "dungeon": "tartarus",
+      "rarity": "FABLED"
+    },
+    {
+      "dungeon": "aurora_sanctum",
+      "rarity": "EXOTIC"
+    },
+    {
+      "dungeon": "aviary",
+      "rarity": "EXOTIC"
+    },
+    {
+      "dungeon": "celestials_province",
+      "rarity": "EXOTIC"
+    },
+    {
+      "dungeon": "cultists_hideout",
+      "rarity": "EXOTIC"
+    },
+    {
+      "dungeon": "dreadwood_thicket",
+      "rarity": "EXOTIC"
+    },
+    {
+      "dungeon": "illarius_hideout",
+      "rarity": "EXOTIC"
+    },
+    {
+      "dungeon": "neo_eden",
+      "rarity": "EXOTIC"
+    },
+    {
+      "dungeon": "onyx",
+      "rarity": "EXOTIC"
+    },
+    {
+      "dungeon": "resounding_ruins",
+      "rarity": "EXOTIC"
+    },
+    {
+      "dungeon": "shatters",
+      "rarity": "EXOTIC"
+    },
+    {
+      "dungeon": "tenebris",
+      "rarity": "EXOTIC"
+    },
+    {
+      "dungeon": "valley_of_the_lost",
+      "rarity": "EXOTIC"
+    },
+    {
+      "dungeon": "starter",
+      "rarity": "LEGACY"
+    }
+  ],
+  "starterCount": 7
+}

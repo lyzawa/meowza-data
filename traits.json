@@ -1,0 +1,378 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": 1,
+  "entries": [
+    {
+      "id": "AEGIS_IDOL",
+      "label": "Aegis Idol",
+      "levels": [
+        5,
+        6,
+        7,
+        9,
+        10
+      ]
+    },
+    {
+      "id": "AIRBORNE",
+      "label": "Airborne",
+      "levels": [
+        40,
+        50,
+        60,
+        80,
+        90
+      ]
+    },
+    {
+      "id": "AMBUSH",
+      "label": "Ambush",
+      "levels": [
+        6,
+        8,
+        10,
+        13,
+        15
+      ]
+    },
+    {
+      "id": "BINDING",
+      "label": "Binding",
+      "levels": [
+        2,
+        2.5,
+        3,
+        4,
+        4.5
+      ]
+    },
+    {
+      "id": "BURNING_FANG",
+      "label": "Burning Fang",
+      "levels": [
+        0.8,
+        1,
+        1.2,
+        1.4,
+        1.6
+      ]
+    },
+    {
+      "id": "BURNING_SPIRIT",
+      "label": "Burning Spirit",
+      "levels": [
+        8.75,
+        12.5,
+        15,
+        20,
+        22,
+        1.75,
+        2.5,
+        3,
+        4,
+        4.5
+      ]
+    },
+    {
+      "id": "CATACLYSM",
+      "label": "Cataclysm",
+      "levels": [
+        12,
+        16,
+        20,
+        26,
+        30
+      ]
+    },
+    {
+      "id": "COMPOSURE",
+      "label": "Composure",
+      "levels": [
+        1.05,
+        1.075,
+        1.1,
+        1.15,
+        1.175
+      ]
+    },
+    {
+      "id": "DEATHMARK",
+      "label": "Deathmark",
+      "levels": [
+        6,
+        8,
+        10,
+        13,
+        15
+      ]
+    },
+    {
+      "id": "DEEP_CUT",
+      "label": "Deep Cut",
+      "levels": [
+        2,
+        2.5,
+        3,
+        4.5,
+        5
+      ]
+    },
+    {
+      "id": "DISCIPLINE",
+      "label": "Discipline",
+      "levels": [
+        10,
+        11,
+        12,
+        14,
+        15
+      ]
+    },
+    {
+      "id": "DODGEBREAKER",
+      "label": "Dodgebreaker",
+      "levels": [
+        45,
+        50,
+        55,
+        65,
+        70
+      ]
+    },
+    {
+      "id": "EMBER_IDOL",
+      "label": "Ember Idol",
+      "levels": [
+        45,
+        55,
+        65,
+        80,
+        90
+      ]
+    },
+    {
+      "id": "FEASTBOUND",
+      "label": "Feastbound",
+      "levels": [
+        56,
+        61,
+        66,
+        73,
+        78
+      ]
+    },
+    {
+      "id": "FIREBOLT",
+      "label": "Firebolt",
+      "levels": [
+        11,
+        18,
+        25,
+        38,
+        45
+      ]
+    },
+    {
+      "id": "FORSAKEN",
+      "label": "Forsaken",
+      "levels": [
+        1,
+        2,
+        3,
+        5,
+        6
+      ]
+    },
+    {
+      "id": "FORTITUDE",
+      "label": "Fortitude",
+      "levels": [
+        1.5,
+        2,
+        2.5,
+        4,
+        5,
+        3,
+        4,
+        5,
+        6.5,
+        7.5
+      ]
+    },
+    {
+      "id": "FRACTURE",
+      "label": "Fracture",
+      "levels": [
+        3,
+        4,
+        5,
+        7,
+        8
+      ]
+    },
+    {
+      "id": "INCISION",
+      "label": "Incision",
+      "levels": [
+        2.5,
+        3,
+        3.5,
+        5,
+        5.5
+      ]
+    },
+    {
+      "id": "INFERNAL_SURGE",
+      "label": "Infernal Surge",
+      "levels": [
+        13,
+        16,
+        19,
+        23,
+        26
+      ]
+    },
+    {
+      "id": "OVERDRIVE",
+      "label": "Overdrive",
+      "levels": [
+        10,
+        15,
+        20,
+        30,
+        35
+      ]
+    },
+    {
+      "id": "OVERKILL",
+      "label": "Overkill",
+      "levels": [
+        5,
+        7,
+        9,
+        13,
+        15
+      ]
+    },
+    {
+      "id": "PACK_MENTALITY",
+      "label": "Pack Mentality",
+      "levels": [
+        0.5,
+        0.75,
+        1,
+        1.35,
+        1.6
+      ]
+    },
+    {
+      "id": "PRIMED",
+      "label": "Primed",
+      "levels": [
+        1.97,
+        1.94,
+        1.91,
+        1.87,
+        1.85
+      ]
+    },
+    {
+      "id": "RAGEBREW",
+      "label": "Ragebrew",
+      "levels": [
+        2,
+        3,
+        4,
+        6,
+        7,
+        0.8,
+        1,
+        1.2,
+        1.4,
+        1.5
+      ]
+    },
+    {
+      "id": "RALLY",
+      "label": "Rally",
+      "levels": [
+        1,
+        2,
+        3,
+        5,
+        6
+      ]
+    },
+    {
+      "id": "RESOLVE",
+      "label": "Resolve",
+      "levels": [
+        5,
+        7,
+        9,
+        12,
+        14
+      ]
+    },
+    {
+      "id": "SATURATION",
+      "label": "Saturation",
+      "levels": [
+        25,
+        30,
+        35,
+        45,
+        50
+      ]
+    },
+    {
+      "id": "SOUL_LEACH",
+      "label": "Soul Leach",
+      "levels": [
+        0.16,
+        0.18,
+        0.2,
+        0.23,
+        0.25
+      ]
+    },
+    {
+      "id": "SPIRITUAL_BOND",
+      "label": "Spiritual Bond",
+      "levels": [
+        7,
+        8.5,
+        10,
+        13.5,
+        15,
+        12,
+        15,
+        18,
+        22,
+        25
+      ]
+    },
+    {
+      "id": "STARFALL",
+      "label": "Starfall",
+      "levels": [
+        75,
+        85,
+        95,
+        110,
+        120
+      ]
+    },
+    {
+      "id": "ZENITH_RAY",
+      "label": "Zenith Ray",
+      "levels": [
+        63,
+        72,
+        82.5,
+        102,
+        112.5
+      ]
+    }
+  ]
+}

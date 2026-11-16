@@ -1,0 +1,242 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": 2,
+  "entries": [
+    {
+      "id": "ANUBIS",
+      "label": "Anubis",
+      "playerCall": "^\\[Anubis] You will not disturb their peace, (.+)!",
+      "spawn": {
+        "x": 458,
+        "y": 214,
+        "z": -467
+      },
+      "model": "telos:material/boss/anubis",
+      "barHash": -342545608
+    },
+    {
+      "id": "ASTAROTH",
+      "label": "Astaroth",
+      "playerCall": "^\\[Astaroth] Your futile struggles are mere entertainment for the denizens of the void, (.+)",
+      "spawn": {
+        "x": 250,
+        "y": 228,
+        "z": 60
+      },
+      "model": "telos:material/boss/astaroth",
+      "barHash": -1253632898
+    },
+    {
+      "id": "CHUNGUS",
+      "label": "Chungus",
+      "playerCall": "^\\[Chungus] The void strengthens me, (.+)!",
+      "spawn": {
+        "x": 61,
+        "y": 266,
+        "z": -490
+      },
+      "model": "telos:material/boss/chungus",
+      "barHash": -168181711
+    },
+    {
+      "id": "FREDDY",
+      "label": "Freddy",
+      "playerCall": "^\\[Freddy] YOU WILL NOT BE SPARED! YOU WILL NOT BE SAVED, (.+)!",
+      "spawn": {
+        "x": -136,
+        "y": 214,
+        "z": 653
+      },
+      "model": "telos:material/boss/freddy"
+    },
+    {
+      "id": "GLUMI",
+      "label": "Glumi",
+      "playerCall": "^\\[Glumi] You will not access the sacred caverns, (.+)!",
+      "spawn": {
+        "x": 317,
+        "y": 200,
+        "z": 558
+      },
+      "model": "telos:material/boss/glumi",
+      "barHash": -168176906
+    },
+    {
+      "id": "ILLARIUS",
+      "label": "Illarius",
+      "playerCall": "^\\[Illarius] Don't send me back to Loa, (.+)!",
+      "spawn": {
+        "x": 479,
+        "y": 211,
+        "z": -44
+      },
+      "model": "telos:material/boss/illarius",
+      "barHash": 1368623635
+    },
+    {
+      "id": "LOTIL",
+      "label": "Lotil",
+      "playerCall": "^\\[Lotil] You will NOT take my symbolic shield away from me, (.+)!",
+      "spawn": {
+        "x": -138,
+        "y": 223,
+        "z": 17
+      },
+      "model": "telos:material/boss/lotil",
+      "barHash": -1254008649
+    },
+    {
+      "id": "OOZUL",
+      "label": "Oozul",
+      "playerCall": "^\\[Oozul] Don't expose mortals such as (.+) to Chronos!",
+      "spawn": {
+        "x": -424,
+        "y": 205,
+        "z": 91
+      },
+      "model": "telos:material/boss/oozul"
+    },
+    {
+      "id": "TIDOL",
+      "label": "Tidol",
+      "playerCall": "^\\[Tidol] Face my trident, (.+)!",
+      "spawn": {
+        "x": -543,
+        "y": 199,
+        "z": 364
+      },
+      "model": "telos:material/boss/tidol",
+      "barHash": 1368934038
+    },
+    {
+      "id": "VALUS",
+      "label": "Valus",
+      "playerCall": "^\\[Valus] You are not worthy of joining our worship, (.+)!",
+      "spawn": {
+        "x": 35,
+        "y": 220,
+        "z": 307
+      },
+      "model": "telos:material/boss/valus",
+      "barHash": -1622056066
+    },
+    {
+      "id": "HOLLOWBANE",
+      "label": "Hollowbane",
+      "playerCall": "^\\[Hollowbane] Hollow is your fate, as it is mine (.+)!",
+      "spawn": {
+        "x": 233,
+        "y": 200,
+        "z": 703
+      },
+      "model": "telos:material/boss/hollowbane",
+      "barHash": 832510374
+    },
+    {
+      "id": "CLAUS",
+      "label": "Claus",
+      "playerCall": "^\\[Claus] The only sleighing happening here is YOU, (.+)!",
+      "spawn": {
+        "x": 10,
+        "y": 222,
+        "z": -122
+      },
+      "model": "telos:material/boss/claus",
+      "barHash": -1048713371
+    },
+    {
+      "id": "RAPHAEL",
+      "label": "Raphael",
+      "playerCall": "^\\[Raphael] .+",
+      "spawn": {
+        "x": -15,
+        "y": 243,
+        "z": 88
+      },
+      "model": "telos:material/pet/onyx",
+      "barHash": 254038329
+    },
+    {
+      "id": "DEFENDER",
+      "label": "Defender",
+      "playerCall": "^\\[Defender] I stood for honor, but honor was my undoing (.+)!",
+      "spawn": {
+        "x": 65,
+        "y": -51,
+        "z": 64
+      },
+      "model": "telos:material/boss/defender",
+      "barHash": -1370654034
+    },
+    {
+      "id": "REAPER",
+      "label": "Reaper",
+      "playerCall": "^\\[Reaper] We never knew what fate had in store for us, (.+). And yet, dead men tell no tales.",
+      "spawnLine": "^\\[Reaper] The spectres watch closely\\.",
+      "defeatLine": "^\\[Reaper] So we shall persist in spirit\\.",
+      "spawn": {
+        "x": 22,
+        "y": -47,
+        "z": 323
+      },
+      "model": "telos:material/boss/reaper",
+      "shadowlands": true,
+      "barHash": -1370654995
+    },
+    {
+      "id": "HERALD",
+      "label": "Herald",
+      "playerCall": "^\\[Herald] The flames cast deep shadows, (.+). There’s a tragic tale within them, growing darker the further you stray.",
+      "spawnLine": "^\\[Herald] The torch burns bright\\.",
+      "defeatLine": "^\\[Herald] Never let go of the light\\.",
+      "spawn": {
+        "x": 148,
+        "y": -47,
+        "z": -176
+      },
+      "model": "telos:material/boss/herald",
+      "shadowlands": true,
+      "barHash": -1370655956
+    },
+    {
+      "id": "WARDEN",
+      "label": "Warden",
+      "playerCall": "^\\[Warden] Look at it, (.+). This battle standard is all I have left to honour my fallen brethren.",
+      "spawnLine": "^\\[Warden] The flag flies once more\\.",
+      "defeatLine": "^\\[Warden] Remember us, warriors\\.",
+      "spawn": {
+        "x": -125,
+        "y": -46,
+        "z": -122
+      },
+      "model": "telos:material/boss/warden",
+      "shadowlands": true,
+      "barHash": -1370656917
+    },
+    {
+      "id": "COG_SENTINEL",
+      "label": "Cog Sentinel",
+      "playerCall": "^\\[Cog Sentinel] .+",
+      "spawn": {
+        "x": 100000,
+        "y": 50,
+        "z": 100000
+      },
+      "model": "telos:material/boss/cog_sentinel",
+      "radiantIsles": true,
+      "barHash": -1370503157
+    },
+    {
+      "id": "COG_STABILIZER",
+      "label": "Cog Stabilizer",
+      "playerCall": "^\\[Cog Stabilizer] .+",
+      "spawn": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "model": "meowza:boss/cog_stabilizer",
+      "radiantIsles": true
+    }
+  ]
+}

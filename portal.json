@@ -1,0 +1,182 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": 1,
+  "entries": [
+    {
+      "id": "SKULL_CAVERN",
+      "label": "Skull Cavern"
+    },
+    {
+      "id": "THORNWOOD_WARGROVE",
+      "label": "Thornwood Wargrove"
+    },
+    {
+      "id": "GOBLIN_LAIR",
+      "label": "Goblin Lair"
+    },
+    {
+      "id": "DESERT_TEMPLE",
+      "label": "Desert Temple"
+    },
+    {
+      "id": "TOMB_OF_SHADOWS",
+      "label": "Tomb of Shadows"
+    },
+    {
+      "id": "SAKURA_SHRINE",
+      "label": "Sakura Shrine"
+    },
+    {
+      "id": "SECLUDED_WOODLAND",
+      "label": "Secluded Woodland"
+    },
+    {
+      "id": "ABYSS_OF_DEMONS",
+      "label": "Abyss of Demons"
+    },
+    {
+      "id": "UNDEAD_LAIR",
+      "label": "Undead Lair"
+    },
+    {
+      "id": "ICE_CAVE",
+      "label": "Ice Cave"
+    },
+    {
+      "id": "DWARVEN_FROSTKEEP",
+      "label": "Dwarven Frostkeep"
+    },
+    {
+      "id": "TREASURE_CAVE",
+      "label": "Treasure Cave"
+    },
+    {
+      "id": "DEPTHS_OF_PURGATORY",
+      "label": "Depths of Purgatory"
+    },
+    {
+      "id": "FROZEN_RUINS",
+      "label": "Frozen Ruins"
+    },
+    {
+      "id": "KOBOLDS_DEN",
+      "label": "Kobold's Den"
+    },
+    {
+      "id": "OMNIPOTENTS_CITADEL",
+      "label": "Omnipotent's Citadel"
+    },
+    {
+      "id": "FUNGAL_CAVERN",
+      "label": "Fungal Cavern"
+    },
+    {
+      "id": "CORSAIRS_CONDUCTORIUM",
+      "label": "Corsair's Conductorium"
+    },
+    {
+      "id": "FREDDYS_PIZZERIA",
+      "label": "Freddy's Pizzeria"
+    },
+    {
+      "id": "CHRONOS",
+      "label": "Chronos"
+    },
+    {
+      "id": "ANUBIS_LAIR",
+      "label": "Anubis Lair"
+    },
+    {
+      "id": "TARTARUS",
+      "label": "Tartarus"
+    },
+    {
+      "id": "CULTISTS_HIDEOUT",
+      "label": "Cultist's Hideout"
+    },
+    {
+      "id": "ILLARIUS_HIDEOUT",
+      "label": "Illarius' Hideout"
+    },
+    {
+      "id": "AURORA_SANCTUM",
+      "label": "Aurora Sanctum"
+    },
+    {
+      "id": "AVIARY",
+      "label": "The Aviary"
+    },
+    {
+      "id": "ONYXS_CASTLE",
+      "label": "Raphael's Castle"
+    },
+    {
+      "id": "SHATTERS",
+      "label": "Rustborn Kingdom"
+    },
+    {
+      "id": "DREADWOOD_THICKET",
+      "label": "Dreadwood Thicket"
+    },
+    {
+      "id": "RESOUNDING_RUINS",
+      "label": "Resounding Ruins"
+    },
+    {
+      "id": "CELESTIALS_PROVINCE",
+      "label": "Celestial's Province"
+    },
+    {
+      "id": "ONYXS_CASTLE2",
+      "label": "Raphael's Chamber"
+    },
+    {
+      "id": "SHATTERS2",
+      "label": "Rustborn Kingdom (Nebula)"
+    },
+    {
+      "id": "SHATTERS3",
+      "label": "Rustborn Kingdom (Ophanim)"
+    },
+    {
+      "id": "TENEBRIS",
+      "label": "Tenebris"
+    },
+    {
+      "id": "HARDMODE_CELESTIALS_PROVINCE_LOCK",
+      "label": "Seraph's Domain (Locked)"
+    },
+    {
+      "id": "HARDMODE_CELESTIALS_PROVINCE",
+      "label": "Seraph's Domain"
+    },
+    {
+      "id": "HARDMODE_SHATTERS_LOCK",
+      "label": "Dawn of Creation (Locked)"
+    },
+    {
+      "id": "HARDMODE_SHATTERS",
+      "label": "Dawn of Creation"
+    },
+    {
+      "id": "VOID",
+      "label": "Void"
+    },
+    {
+      "id": "PEAKS_OF_PURGATORY",
+      "label": "Peaks of Purgatory"
+    },
+    {
+      "id": "NEO_EDEN",
+      "label": "Neo Eden"
+    },
+    {
+      "id": "MIDNIGHT_STRONGHOLD",
+      "label": "Midnight Stronghold"
+    },
+    {
+      "id": "VALLEY_OF_THE_LOST",
+      "label": "Valley of the Lost"
+    }
+  ]
+}

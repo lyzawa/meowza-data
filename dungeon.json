@@ -1,0 +1,228 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": 1,
+  "entries": [
+    {
+      "id": "SKULL_CAVERN",
+      "areaName": "Skull Cavern",
+      "dungeonType": "LOWLANDS",
+      "finalBoss": "EDDIE"
+    },
+    {
+      "id": "THORNWOOD_WARGROVE",
+      "areaName": "Thornwood Wargrove",
+      "dungeonType": "LOWLANDS",
+      "finalBoss": "ZHUM"
+    },
+    {
+      "id": "GOBLIN_LAIR",
+      "areaName": "Goblin Lair",
+      "dungeonType": "LOWLANDS",
+      "finalBoss": "DRAYRUK"
+    },
+    {
+      "id": "DESERT_TEMPLE",
+      "areaName": "Desert Temple",
+      "dungeonType": "LOWLANDS",
+      "finalBoss": "MIRAJ"
+    },
+    {
+      "id": "TOMB_OF_SHADOWS",
+      "areaName": "Tomb of Shadows",
+      "dungeonType": "LOWLANDS",
+      "finalBoss": "KHUFU"
+    },
+    {
+      "id": "SAKURA_SHRINE",
+      "areaName": "Sakura Shrine",
+      "dungeonType": "LOWLANDS",
+      "finalBoss": "CHOJI"
+    },
+    {
+      "id": "SECLUDED_WOODLAND",
+      "areaName": "Secluded Woodland",
+      "dungeonType": "LOWLANDS",
+      "finalBoss": "FLORA"
+    },
+    {
+      "id": "ABYSS_OF_DEMONS",
+      "areaName": "Abyss of Demons",
+      "dungeonType": "CENTER",
+      "finalBoss": "MALFAS"
+    },
+    {
+      "id": "UNDEAD_LAIR",
+      "areaName": "Undead Lair",
+      "dungeonType": "CENTER",
+      "finalBoss": "HEPTAVIUS"
+    },
+    {
+      "id": "ICE_CAVE",
+      "areaName": "Ice Cave",
+      "dungeonType": "CENTER",
+      "finalBoss": "ARCTIC_COLOSSUS"
+    },
+    {
+      "id": "DWARVEN_FROSTKEEP",
+      "areaName": "Dwarven Frostkeep",
+      "dungeonType": "CENTER",
+      "finalBoss": "OOG"
+    },
+    {
+      "id": "TREASURE_CAVE",
+      "areaName": "Treasure Cave",
+      "dungeonType": "CENTER",
+      "finalBoss": "MAGNUS"
+    },
+    {
+      "id": "DEPTHS_OF_PURGATORY",
+      "areaName": "Depths of Purgatory",
+      "dungeonType": "CENTER",
+      "finalBoss": "PYRO"
+    },
+    {
+      "id": "FROZEN_RUINS",
+      "areaName": "Frozen Ruins",
+      "dungeonType": "CENTER",
+      "finalBoss": "THALOR"
+    },
+    {
+      "id": "KOBOLDS_DEN",
+      "areaName": "Kobold's Den",
+      "dungeonType": "CENTER",
+      "finalBoss": "ASHENCLAW"
+    },
+    {
+      "id": "CORVUS_CRYPT",
+      "areaName": "Corvus Crypt",
+      "dungeonType": "CENTER",
+      "finalBoss": "CORVACK"
+    },
+    {
+      "id": "OMNIPOTENTS_CITADEL",
+      "areaName": "Omnipotent's Citadel",
+      "dungeonType": "BOSS",
+      "finalBoss": "OMNIPOTENT"
+    },
+    {
+      "id": "FUNGAL_CAVERN",
+      "areaName": "Fungal Cavern",
+      "dungeonType": "BOSS",
+      "finalBoss": "PRISMARA"
+    },
+    {
+      "id": "CORSAIRS_CONDUCTORIUM",
+      "areaName": "Corsair's Conductorium",
+      "dungeonType": "BOSS",
+      "finalBoss": "THALASSAR"
+    },
+    {
+      "id": "MIDNIGHT_STRONGHOLD",
+      "areaName": "Midnight Stronghold",
+      "dungeonType": "BOSS",
+      "finalBoss": "KAIROS"
+    },
+    {
+      "id": "ANUBIS_LAIR",
+      "areaName": "Anubis Lair",
+      "dungeonType": "BOSS",
+      "finalBoss": "KURVAROS"
+    },
+    {
+      "id": "CULTISTS_HIDEOUT",
+      "areaName": "Cultist's Hideout",
+      "dungeonType": "BOSS",
+      "finalBoss": "SILEX"
+    },
+    {
+      "id": "ILLARIUS_HIDEOUT",
+      "areaName": "Illarius' Hideout",
+      "dungeonType": "BOSS",
+      "finalBoss": "LOA"
+    },
+    {
+      "id": "THE_AVIARY",
+      "areaName": "The Aviary",
+      "dungeonType": "BOSS",
+      "finalBoss": "SOLARFLARE"
+    },
+    {
+      "id": "RAPHS_CASTLE",
+      "areaName": "Raphael's Castle",
+      "dungeonType": "BOSS",
+      "finalBoss": "DARK_CHAMPION"
+    },
+    {
+      "id": "AURORA_SANCTUM",
+      "areaName": "Aurora Sanctum",
+      "dungeonType": "BOSS",
+      "finalBoss": "AETHERIS"
+    },
+    {
+      "id": "TARTARUS",
+      "areaName": "Tartarus",
+      "dungeonType": "BOSS",
+      "finalBoss": "MALTHAR"
+    },
+    {
+      "id": "DAWN_OF_CREATION",
+      "areaName": "Dawn of Creation",
+      "dungeonType": "ENDGAME",
+      "finalBoss": "TRUE_OPHAN"
+    },
+    {
+      "id": "RAPHS_CHAMBER",
+      "areaName": "Raphael's Chamber",
+      "dungeonType": "ENDGAME",
+      "finalBoss": "RAPHAEL"
+    },
+    {
+      "id": "TENEBRIS",
+      "areaName": "Tenebris",
+      "dungeonType": "ENDGAME",
+      "finalBoss": "VOIDED_OMNIPOTENT"
+    },
+    {
+      "id": "RUSTBORN_KINGDOM",
+      "areaName": "Rustborn Kingdom",
+      "dungeonType": "ENDGAME",
+      "finalBoss": "OPHANIM"
+    },
+    {
+      "id": "DREADWOOD_THICKET",
+      "areaName": "Dreadwood Thicket",
+      "dungeonType": "ENDGAME",
+      "finalBoss": "SYLVARIS"
+    },
+    {
+      "id": "CELESTIALS_PROVINCE",
+      "areaName": "Celestial's Province",
+      "dungeonType": "ENDGAME",
+      "finalBoss": "SERAPHIM"
+    },
+    {
+      "id": "SERAPHS_DOMAIN",
+      "areaName": "Seraph's Domain",
+      "dungeonType": "ENDGAME",
+      "finalBoss": "TRUE_SERAPH"
+    },
+    {
+      "id": "RESOUNDING_RUINS",
+      "areaName": "Resounding Ruins",
+      "dungeonType": "ENDGAME",
+      "finalBoss": "UNREST"
+    },
+    {
+      "id": "NEO_EDEN",
+      "areaName": "Neo Eden",
+      "dungeonType": "ENDGAME",
+      "finalBoss": "CHERUBIM"
+    },
+    {
+      "id": "VALLEY_OF_THE_LOST",
+      "areaName": "Valley of the Lost",
+      "dungeonType": "ENDGAME",
+      "finalBoss": "OBLIVION"
+    }
+  ]
+}

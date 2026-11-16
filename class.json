@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": 1,
+  "entries": [
+    {
+      "id": "KNIGHT"
+    },
+    {
+      "id": "ASSASSIN"
+    },
+    {
+      "id": "NECROMANCER"
+    },
+    {
+      "id": "SAMURAI"
+    },
+    {
+      "id": "HUNTRESS"
+    },
+    {
+      "id": "ARCANIST"
+    }
+  ],
+  "perClassCap": 3000000,
+  "totalCap": 18000000
+}
